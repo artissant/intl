@@ -10,6 +10,7 @@ Features:
 - Currencies
 - Countries
 - Languages
+- Timezones
 
 Coming soon: date formatting.
 
@@ -139,6 +140,27 @@ $language = $languageRepository->get('de', 'fr-FR');
 echo $language->getName(); // allemand
 
 $allLanguages = $languageRepository->getAll();
+```
+
+Timezones
+---------
+```php
+use CommerceGuys\Intl\Timezone\TimezoneRepository;
+
+// Reads the timezone definitions from resources/timezone.
+$timezoneRepository = new TimezoneRepository;
+
+// Get the London timezone using the default locale (en).
+$timezone = $timezoneRepository->get('Europe/London');
+echo $timezone->getTimezone(); // Europe/London
+echo $timezone->getName();     // London
+echo $timezone->getCountry();  // GB
+
+// Get the London timezone using the fr-FR locale.
+$timezone = $timezoneRepository->get('Europe/London', 'fr-FR');
+echo $timezone->getName(); // Londres
+
+$allTimezones = $timezoneRepository->getAll();
 ```
 
 Implementing the library

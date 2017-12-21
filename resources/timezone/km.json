@@ -1,0 +1,1244 @@
+{
+	"Africa\/Abidjan": {
+		"name": "អាប៊ីដ្យាន"
+	},
+	"Africa\/Accra": {
+		"name": "អាក្រា"
+	},
+	"Africa\/Addis_Ababa": {
+		"name": "អាឌីសអាបេបា"
+	},
+	"Africa\/Algiers": {
+		"name": "អាល់ហ្សេ"
+	},
+	"Africa\/Bamako": {
+		"name": "បាម៉ាកូ"
+	},
+	"Africa\/Bangui": {
+		"name": "បង់ហ្គី"
+	},
+	"Africa\/Banjul": {
+		"name": "បង់ហ្ស៊ុល"
+	},
+	"Africa\/Bissau": {
+		"name": "ប៊ីស្សូ"
+	},
+	"Africa\/Blantyre": {
+		"name": "ប្លាំងទីរ៉េ"
+	},
+	"Africa\/Brazzaville": {
+		"name": "ប្រាស្ហាវីល"
+	},
+	"Africa\/Bujumbura": {
+		"name": "ប៊ូយ៉ាំប៊ូរ៉ា"
+	},
+	"Africa\/Cairo": {
+		"name": "គែរ"
+	},
+	"Africa\/Casablanca": {
+		"name": "កាសាប្លាំងកា"
+	},
+	"Africa\/Ceuta": {
+		"name": "ឈៀតា"
+	},
+	"Africa\/Conakry": {
+		"name": "កូណាគ្រី"
+	},
+	"Africa\/Dakar": {
+		"name": "ដាកា"
+	},
+	"Africa\/Dar_es_Salaam": {
+		"name": "ដាអ៊ីសាឡាំ"
+	},
+	"Africa\/Djibouti": {
+		"name": "ជីប៊ូទី"
+	},
+	"Africa\/Douala": {
+		"name": "ឌូអ៊ូឡា"
+	},
+	"Africa\/El_Aaiun": {
+		"name": "អែល​អ៊ុយញៀន"
+	},
+	"Africa\/Freetown": {
+		"name": "ហ្វ្រីថោន"
+	},
+	"Africa\/Gaborone": {
+		"name": "ហ្គាបូរ៉ូន"
+	},
+	"Africa\/Harare": {
+		"name": "ហារ៉ារ៉េ"
+	},
+	"Africa\/Johannesburg": {
+		"name": "ជូហានណេប៊ឺហ្គ"
+	},
+	"Africa\/Juba": {
+		"name": "ជូបា"
+	},
+	"Africa\/Kampala": {
+		"name": "កំប៉ាឡា"
+	},
+	"Africa\/Khartoum": {
+		"name": "ខាទុំ"
+	},
+	"Africa\/Kigali": {
+		"name": "គីហ្គាលី"
+	},
+	"Africa\/Kinshasa": {
+		"name": "គីនស្ហាសា"
+	},
+	"Africa\/Lagos": {
+		"name": "ឡាហ្គូស"
+	},
+	"Africa\/Libreville": {
+		"name": "លីប្រីវីល"
+	},
+	"Africa\/Lome": {
+		"name": "ឡូម៉េ"
+	},
+	"Africa\/Luanda": {
+		"name": "លូអង់ដា"
+	},
+	"Africa\/Lubumbashi": {
+		"name": "លូប៊ុមបាស៊ី"
+	},
+	"Africa\/Lusaka": {
+		"name": "លូសាកា"
+	},
+	"Africa\/Malabo": {
+		"name": "ម៉ាឡាបូ"
+	},
+	"Africa\/Maputo": {
+		"name": "ម៉ាពុយតូ"
+	},
+	"Africa\/Maseru": {
+		"name": "ម៉ាសេរុយ"
+	},
+	"Africa\/Mbabane": {
+		"name": "បាបាន"
+	},
+	"Africa\/Mogadishu": {
+		"name": "ម៉ូហ្គាឌីស្យូ"
+	},
+	"Africa\/Monrovia": {
+		"name": "ម៉ុងរ៉ូវីយ៉ា"
+	},
+	"Africa\/Nairobi": {
+		"name": "ណៃរ៉ូប៊ី"
+	},
+	"Africa\/Ndjamena": {
+		"name": "ដ្យាមេណា"
+	},
+	"Africa\/Niamey": {
+		"name": "នីញ៉ាម៉េ"
+	},
+	"Africa\/Nouakchott": {
+		"name": "ណួកសុត"
+	},
+	"Africa\/Ouagadougou": {
+		"name": "អៅហ្គាឌូហ្គូ"
+	},
+	"Africa\/Porto-Novo": {
+		"name": "ព័រតូណូវ៉ូ"
+	},
+	"Africa\/Sao_Tome": {
+		"name": "សៅតូម៉េ"
+	},
+	"Africa\/Tripoli": {
+		"name": "ទ្រីប៉ូលី"
+	},
+	"Africa\/Tunis": {
+		"name": "ទុយនីស"
+	},
+	"Africa\/Windhoek": {
+		"name": "វីនដុក"
+	},
+	"America\/Adak": {
+		"name": "អាដាក"
+	},
+	"America\/Anchorage": {
+		"name": "អង់ចូរ៉ាក"
+	},
+	"America\/Anguilla": {
+		"name": "អង់ហ្គីឡា"
+	},
+	"America\/Antigua": {
+		"name": "អង់ទីហ្គា"
+	},
+	"America\/Araguaina": {
+		"name": "អារ៉ាហ្គុយណា"
+	},
+	"America\/Argentina\/Buenos_Aires": {
+		"name": "ប៊ុយណូស៊ែ"
+	},
+	"America\/Argentina\/Catamarca": {
+		"name": "កាតាម៉ាកា"
+	},
+	"America\/Argentina\/Cordoba": {
+		"name": "កូដូបា"
+	},
+	"America\/Argentina\/Jujuy": {
+		"name": "សូសុយ"
+	},
+	"America\/Argentina\/La_Rioja": {
+		"name": "ឡារីយ៉ូហា"
+	},
+	"America\/Argentina\/Mendoza": {
+		"name": "ម៉ែនឌូហ្សា"
+	},
+	"America\/Argentina\/Rio_Gallegos": {
+		"name": "រីយ៉ូហ្គាឡេហ្គូស"
+	},
+	"America\/Argentina\/Salta": {
+		"name": "សាល់តា"
+	},
+	"America\/Argentina\/San_Juan": {
+		"name": "សាំងហ្សង់"
+	},
+	"America\/Argentina\/San_Luis": {
+		"name": "សាន់លូអ៊ីស"
+	},
+	"America\/Argentina\/Tucuman": {
+		"name": "ទូគូម៉ង់"
+	},
+	"America\/Argentina\/Ushuaia": {
+		"name": "អ៊ុយសូអៃ"
+	},
+	"America\/Aruba": {
+		"name": "អារ៉ូបា"
+	},
+	"America\/Asuncion": {
+		"name": "អាសង់ស្យុង"
+	},
+	"America\/Bahia": {
+		"name": "បាហៀ"
+	},
+	"America\/Bahia_Banderas": {
+		"name": "បាហៀបង់ដេរ៉ាស"
+	},
+	"America\/Barbados": {
+		"name": "បាបាដុស"
+	},
+	"America\/Belem": {
+		"name": "បេឡឹម"
+	},
+	"America\/Belize": {
+		"name": "បេលី"
+	},
+	"America\/Blanc-Sablon": {
+		"name": "ប្លង់​សាប់ឡុង"
+	},
+	"America\/Boa_Vista": {
+		"name": "បៅ​វីស្តា"
+	},
+	"America\/Bogota": {
+		"name": "បូហ្គោតា"
+	},
+	"America\/Boise": {
+		"name": "ប៊ូស៊ី"
+	},
+	"America\/Cambridge_Bay": {
+		"name": "ខេមប្រីដបេ"
+	},
+	"America\/Campo_Grande": {
+		"name": "ខេមប៉ូហ្គ្រង់​"
+	},
+	"America\/Cancun": {
+		"name": "ខានខុន"
+	},
+	"America\/Caracas": {
+		"name": "ការ៉ាកាស"
+	},
+	"America\/Cayenne": {
+		"name": "កាយ៉េន"
+	},
+	"America\/Cayman": {
+		"name": "កៃមែន"
+	},
+	"America\/Chicago": {
+		"name": "ស៊ីកាហ្គោ"
+	},
+	"America\/Chihuahua": {
+		"name": "ជីហួហួ"
+	},
+	"America\/Costa_Rica": {
+		"name": "កូស្តារីកា"
+	},
+	"America\/Creston": {
+		"name": "ក្រេស្តុន"
+	},
+	"America\/Cuiaba": {
+		"name": "គុយអាបា"
+	},
+	"America\/Curacao": {
+		"name": "កូរ៉ាកៅ"
+	},
+	"America\/Danmarkshavn": {
+		"name": "ដានម៉ាកស្ហាវិន"
+	},
+	"America\/Dawson": {
+		"name": "ដាវសុន"
+	},
+	"America\/Dawson_Creek": {
+		"name": "ដាវសុន​ក្រិក"
+	},
+	"America\/Denver": {
+		"name": "ដែនវើ"
+	},
+	"America\/Detroit": {
+		"name": "ដេត្រូអ៊ីត"
+	},
+	"America\/Dominica": {
+		"name": "ដូមីនីក"
+	},
+	"America\/Edmonton": {
+		"name": "អែតម៉ុងតុង"
+	},
+	"America\/Eirunepe": {
+		"name": "អ៊ីរ៉ុយណេភី"
+	},
+	"America\/El_Salvador": {
+		"name": "អែលសាល់វ៉ាឌ័រ"
+	},
+	"America\/Fort_Nelson": {
+		"name": "ហ្វតណេលសាន់"
+	},
+	"America\/Fortaleza": {
+		"name": "ហ្វ័រតាឡេហ្សារ"
+	},
+	"America\/Glace_Bay": {
+		"name": "ក្លាស​បេ"
+	},
+	"America\/Godthab": {
+		"name": "នូក"
+	},
+	"America\/Goose_Bay": {
+		"name": "កូសេបេ"
+	},
+	"America\/Grand_Turk": {
+		"name": "ហ្គ្រេន​ទូក"
+	},
+	"America\/Grenada": {
+		"name": "ហ្គ្រើណាដ"
+	},
+	"America\/Guadeloupe": {
+		"name": "ហ្គោដេលូប៉េ"
+	},
+	"America\/Guatemala": {
+		"name": "ក្វាតេម៉ាឡា"
+	},
+	"America\/Guayaquil": {
+		"name": "ហ្គុយ៉ាគីល"
+	},
+	"America\/Guyana": {
+		"name": "ហ្គីយ៉ាន"
+	},
+	"America\/Halifax": {
+		"name": "ហាលីហ្វាក"
+	},
+	"America\/Havana": {
+		"name": "ឡាហាវ៉ាន"
+	},
+	"America\/Hermosillo": {
+		"name": "ហ៊ែម៉ូស៊ីឡូ"
+	},
+	"America\/Indiana\/Indianapolis": {
+		"name": "ឥណ្ឌាណាប៉ូលីស"
+	},
+	"America\/Indiana\/Knox": {
+		"name": "ណុក ឥណ្ឌាណា"
+	},
+	"America\/Indiana\/Marengo": {
+		"name": "ម៉ារេនកូ ឥណ្ឌាណា"
+	},
+	"America\/Indiana\/Petersburg": {
+		"name": "ភីធើ​ប៊ឹក ឥណ្ឌាណា"
+	},
+	"America\/Indiana\/Tell_City": {
+		"name": "ទីក្រុងថែល ឥណ្ឌាណា"
+	},
+	"America\/Indiana\/Vevay": {
+		"name": "វេវ៉ៃ ឥណ្ឌាយ៉ាណា"
+	},
+	"America\/Indiana\/Vincennes": {
+		"name": "វិនសេណេស ឥណ្ឌាណា"
+	},
+	"America\/Indiana\/Winamac": {
+		"name": "វីណាម៉ាក់ ឥណ្ឌាណា"
+	},
+	"America\/Inuvik": {
+		"name": "អ៊ីនូវីក"
+	},
+	"America\/Iqaluit": {
+		"name": "អ៊ីកាឡូអ៊ីត"
+	},
+	"America\/Jamaica": {
+		"name": "ហ្សាម៉ាអ៊ីក"
+	},
+	"America\/Juneau": {
+		"name": "ហ្យូនៀ"
+	},
+	"America\/Kentucky\/Louisville": {
+		"name": "លូអ៊ីវីល"
+	},
+	"America\/Kentucky\/Monticello": {
+		"name": "ម៉ងទីសេឡូ កេនទូគី"
+	},
+	"America\/Kralendijk": {
+		"name": "ក្រាលែនឌីក"
+	},
+	"America\/La_Paz": {
+		"name": "ឡាប៉ាស"
+	},
+	"America\/Lima": {
+		"name": "លីម៉ា"
+	},
+	"America\/Los_Angeles": {
+		"name": "ឡូអង់ហ្គិឡេស"
+	},
+	"America\/Lower_Princes": {
+		"name": "ឡូវើ​ព្រីន​ហ្គ័រទ័រ"
+	},
+	"America\/Maceio": {
+		"name": "ម៉ាកសេអូ"
+	},
+	"America\/Managua": {
+		"name": "ម៉ាណាហ្គា"
+	},
+	"America\/Manaus": {
+		"name": "ម៉ាណាអ៊ូស"
+	},
+	"America\/Marigot": {
+		"name": "ម៉ារីហ្គុត"
+	},
+	"America\/Martinique": {
+		"name": "ម៉ាទីនីក"
+	},
+	"America\/Matamoros": {
+		"name": "ម៉ាតាម៉ូរ៉ូស"
+	},
+	"America\/Mazatlan": {
+		"name": "ម៉ាហ្សាតឡង់"
+	},
+	"America\/Menominee": {
+		"name": "ម៉េណូមីនី"
+	},
+	"America\/Merida": {
+		"name": "ម៉េរីដា"
+	},
+	"America\/Metlakatla": {
+		"name": "មេត្លា កាត្លា"
+	},
+	"America\/Mexico_City": {
+		"name": "ទីក្រុងម៉ិចស៊ីកូ"
+	},
+	"America\/Miquelon": {
+		"name": "មីហ្គីឡុង"
+	},
+	"America\/Moncton": {
+		"name": "ម៉ុងតុន"
+	},
+	"America\/Monterrey": {
+		"name": "ម៉ុនតេរ៉េ"
+	},
+	"America\/Montevideo": {
+		"name": "ម៉ុងតេវីដេអូ"
+	},
+	"America\/Montserrat": {
+		"name": "ម៉ុងស៊ែរ៉ាត​"
+	},
+	"America\/Nassau": {
+		"name": "ណាស្សូ"
+	},
+	"America\/New_York": {
+		"name": "ញូវយ៉ក"
+	},
+	"America\/Nipigon": {
+		"name": "នីពីកុន"
+	},
+	"America\/Nome": {
+		"name": "ណូម"
+	},
+	"America\/Noronha": {
+		"name": "ណូរ៉ុនញ៉ា"
+	},
+	"America\/North_Dakota\/Beulah": {
+		"name": "ប៊ឺឡា ដាកូតា​ខាងជើង"
+	},
+	"America\/North_Dakota\/Center": {
+		"name": "សិនធឺ ដាកូតា​ខាង​ជើង"
+	},
+	"America\/North_Dakota\/New_Salem": {
+		"name": "ញូវ​សាឡឹម ដាកូតា​ខាង​ជើង"
+	},
+	"America\/Ojinaga": {
+		"name": "អូជីណាហ្កា"
+	},
+	"America\/Panama": {
+		"name": "ប៉ាណាម៉ា"
+	},
+	"America\/Pangnirtung": {
+		"name": "ប៉ាងនីទុង"
+	},
+	"America\/Paramaribo": {
+		"name": "ប៉ារ៉ាម៉ារីបូ"
+	},
+	"America\/Phoenix": {
+		"name": "ផូនីក"
+	},
+	"America\/Port-au-Prince": {
+		"name": "ព័រអូប្រ៉ាំង"
+	},
+	"America\/Port_of_Spain": {
+		"name": "ព័រអេស្ប៉ាញ"
+	},
+	"America\/Porto_Velho": {
+		"name": "ព័រតូ​វិលហូ"
+	},
+	"America\/Puerto_Rico": {
+		"name": "ព័រតូរីកូ"
+	},
+	"America\/Punta_Arenas": {
+		"name": "Punta Arenas"
+	},
+	"America\/Rainy_River": {
+		"name": "រ៉េនីរីវើ"
+	},
+	"America\/Rankin_Inlet": {
+		"name": "រ៉ាន់ឃីន​អ៊ីនឡិត"
+	},
+	"America\/Recife": {
+		"name": "រ៉េស៊ីហ្វី"
+	},
+	"America\/Regina": {
+		"name": "រ៉េហ្គីណា"
+	},
+	"America\/Resolute": {
+		"name": "រ៉េ​ស៊ូឡូត"
+	},
+	"America\/Rio_Branco": {
+		"name": "រីយ៉ូប្រានកូ"
+	},
+	"America\/Santarem": {
+		"name": "សាន់តារឹម"
+	},
+	"America\/Santiago": {
+		"name": "សាន់ទីអេហ្គោ"
+	},
+	"America\/Santo_Domingo": {
+		"name": "សាន់ដូម៉ាំង"
+	},
+	"America\/Sao_Paulo": {
+		"name": "សៅ​ប៉ូឡូ"
+	},
+	"America\/Scoresbysund": {
+		"name": "អ៊ីតូគ័រតូមីត"
+	},
+	"America\/Sitka": {
+		"name": "ស៊ីតកា"
+	},
+	"America\/St_Barthelemy": {
+		"name": "សាំង​បាធីលីម៉ី"
+	},
+	"America\/St_Johns": {
+		"name": "សាំង​ចន"
+	},
+	"America\/St_Kitts": {
+		"name": "សាំង​ឃីត"
+	},
+	"America\/St_Lucia": {
+		"name": "សាំង​លូសៀ"
+	},
+	"America\/St_Thomas": {
+		"name": "សាំង​តូម៉ាស់"
+	},
+	"America\/St_Vincent": {
+		"name": "សាំង​វីនសេន"
+	},
+	"America\/Swift_Current": {
+		"name": "ស្វីត​ខឺរិន"
+	},
+	"America\/Tegucigalpa": {
+		"name": "តេហ្គូស៊ីហ្គាល់ប៉ា"
+	},
+	"America\/Thule": {
+		"name": "ធុឡេ"
+	},
+	"America\/Thunder_Bay": {
+		"name": "សាន់ដឺ​បេ"
+	},
+	"America\/Tijuana": {
+		"name": "ទីយ្យូអាណា"
+	},
+	"America\/Toronto": {
+		"name": "តូរ៉ុនតូ"
+	},
+	"America\/Tortola": {
+		"name": "តូតូឡា"
+	},
+	"America\/Vancouver": {
+		"name": "វ៉ាន់កូវើ"
+	},
+	"America\/Whitehorse": {
+		"name": "វ៉ាយហស"
+	},
+	"America\/Winnipeg": {
+		"name": "វីនីភិក"
+	},
+	"America\/Yakutat": {
+		"name": "យ៉ាគូតាត"
+	},
+	"America\/Yellowknife": {
+		"name": "យេឡូណៃ"
+	},
+	"Antarctica\/Casey": {
+		"name": "កាសី"
+	},
+	"Antarctica\/Davis": {
+		"name": "ដាវីស"
+	},
+	"Antarctica\/DumontDUrville": {
+		"name": "ឌុយម៉ុងដឺអ៊ុយវីល"
+	},
+	"Antarctica\/Macquarie": {
+		"name": "ម៉ាកខ្វារី"
+	},
+	"Antarctica\/Mawson": {
+		"name": "ម៉ៅសាន់"
+	},
+	"Antarctica\/McMurdo": {
+		"name": "ម៉ាក់មុយដូ"
+	},
+	"Antarctica\/Palmer": {
+		"name": "ផាល់ម័រ"
+	},
+	"Antarctica\/Rothera": {
+		"name": "រ៉ូធីរ៉ា"
+	},
+	"Antarctica\/Syowa": {
+		"name": "ស៊ីយ៉ូវ៉ា"
+	},
+	"Antarctica\/Troll": {
+		"name": "ត្រូល"
+	},
+	"Antarctica\/Vostok": {
+		"name": "វ៉ូស្តុក"
+	},
+	"Arctic\/Longyearbyen": {
+		"name": "ឡុង​យ៉ា​ប៊ីយេន"
+	},
+	"Asia\/Aden": {
+		"name": "អាដែន"
+	},
+	"Asia\/Almaty": {
+		"name": "អាល់ម៉ាទី"
+	},
+	"Asia\/Amman": {
+		"name": "អាម៉ាន់"
+	},
+	"Asia\/Anadyr": {
+		"name": "អាណាឌី"
+	},
+	"Asia\/Aqtau": {
+		"name": "អាកទូ"
+	},
+	"Asia\/Aqtobe": {
+		"name": "អាកទូប៊ី"
+	},
+	"Asia\/Ashgabat": {
+		"name": "អាសហ្គាបាត"
+	},
+	"Asia\/Atyrau": {
+		"name": "Atyrau"
+	},
+	"Asia\/Baghdad": {
+		"name": "បាកដាដ"
+	},
+	"Asia\/Bahrain": {
+		"name": "បារ៉ែន"
+	},
+	"Asia\/Baku": {
+		"name": "បាគូ"
+	},
+	"Asia\/Bangkok": {
+		"name": "បាងកក"
+	},
+	"Asia\/Barnaul": {
+		"name": "បានូល"
+	},
+	"Asia\/Beirut": {
+		"name": "បេរូត"
+	},
+	"Asia\/Bishkek": {
+		"name": "ប៊ីស្កេក"
+	},
+	"Asia\/Brunei": {
+		"name": "ព្រុយណេ"
+	},
+	"Asia\/Chita": {
+		"name": "ឈីតា"
+	},
+	"Asia\/Choibalsan": {
+		"name": "ឈូបាល់សាន"
+	},
+	"Asia\/Colombo": {
+		"name": "កូឡុំបូ"
+	},
+	"Asia\/Damascus": {
+		"name": "ដាម៉ាស"
+	},
+	"Asia\/Dhaka": {
+		"name": "ដាក្កា"
+	},
+	"Asia\/Dili": {
+		"name": "ដេលី"
+	},
+	"Asia\/Dubai": {
+		"name": "ឌុយបៃ"
+	},
+	"Asia\/Dushanbe": {
+		"name": "ឌូស្ហាន់បេ"
+	},
+	"Asia\/Famagusta": {
+		"name": "Famagusta"
+	},
+	"Asia\/Gaza": {
+		"name": "កាសា"
+	},
+	"Asia\/Hebron": {
+		"name": "ហេបរុន"
+	},
+	"Asia\/Hong_Kong": {
+		"name": "ហុងកុង"
+	},
+	"Asia\/Hovd": {
+		"name": "ហូវ"
+	},
+	"Asia\/Irkutsk": {
+		"name": "អៀរគុតស្កិ៍"
+	},
+	"Asia\/Jakarta": {
+		"name": "ហ្សាការតា"
+	},
+	"Asia\/Jayapura": {
+		"name": "ចាយ៉ាភូរ៉ា"
+	},
+	"Asia\/Jerusalem": {
+		"name": "ហ្ស៊េរុយសាឡិម"
+	},
+	"Asia\/Kabul": {
+		"name": "កាប៊ុល"
+	},
+	"Asia\/Kamchatka": {
+		"name": "កាំឆាតកា"
+	},
+	"Asia\/Karachi": {
+		"name": "ការ៉ាជី"
+	},
+	"Asia\/Khandyga": {
+		"name": "ខាន់ឌីហ្គា"
+	},
+	"Asia\/Krasnoyarsk": {
+		"name": "ក្រាសនុយ៉ាក"
+	},
+	"Asia\/Kuala_Lumpur": {
+		"name": "កូឡាឡាំពួរ"
+	},
+	"Asia\/Kuching": {
+		"name": "ឃឺតចីង"
+	},
+	"Asia\/Kuwait": {
+		"name": "កូវ៉ែត"
+	},
+	"Asia\/Macau": {
+		"name": "ម៉ាកាវ"
+	},
+	"Asia\/Magadan": {
+		"name": "ម៉ាហ្គាដាន"
+	},
+	"Asia\/Makassar": {
+		"name": "ម៉ាកាសសារ"
+	},
+	"Asia\/Manila": {
+		"name": "ម៉ានីល"
+	},
+	"Asia\/Muscat": {
+		"name": "ម៉ាស្កាត"
+	},
+	"Asia\/Nicosia": {
+		"name": "នីកូស៊ី"
+	},
+	"Asia\/Novokuznetsk": {
+		"name": "ណូវ៉ូឃូសណេតស្កិ៍"
+	},
+	"Asia\/Novosibirsk": {
+		"name": "ណូវ៉ូស៊ីប៊ឺក"
+	},
+	"Asia\/Omsk": {
+		"name": "អូមស្កិ៍"
+	},
+	"Asia\/Oral": {
+		"name": "អូរ៉ាល់"
+	},
+	"Asia\/Phnom_Penh": {
+		"name": "ភ្នំពេញ"
+	},
+	"Asia\/Pontianak": {
+		"name": "ប៉ុនទីអាណាក់"
+	},
+	"Asia\/Pyongyang": {
+		"name": "ព្យុងយ៉ាង"
+	},
+	"Asia\/Qatar": {
+		"name": "កាតា"
+	},
+	"Asia\/Qyzylorda": {
+		"name": "គីហ្ស៊ីឡូដា"
+	},
+	"Asia\/Riyadh": {
+		"name": "រីយ៉ាដ"
+	},
+	"Asia\/Sakhalin": {
+		"name": "សាខាលីន"
+	},
+	"Asia\/Samarkand": {
+		"name": "សាម៉ាកាន់"
+	},
+	"Asia\/Seoul": {
+		"name": "សេអ៊ូល"
+	},
+	"Asia\/Shanghai": {
+		"name": "សៀងហៃ"
+	},
+	"Asia\/Singapore": {
+		"name": "សិង្ហបូរី"
+	},
+	"Asia\/Srednekolymsk": {
+		"name": "ស្រីតនីកូលីម"
+	},
+	"Asia\/Taipei": {
+		"name": "តៃប៉ិ"
+	},
+	"Asia\/Tashkent": {
+		"name": "តាស្កិន"
+	},
+	"Asia\/Tbilisi": {
+		"name": "ប៊ីលីស៊ី"
+	},
+	"Asia\/Tehran": {
+		"name": "តេហេរ៉ង់"
+	},
+	"Asia\/Thimphu": {
+		"name": "ធីមភូ"
+	},
+	"Asia\/Tokyo": {
+		"name": "តូក្យូ"
+	},
+	"Asia\/Tomsk": {
+		"name": "ថមស្កិ៍"
+	},
+	"Asia\/Ulaanbaatar": {
+		"name": "អ៊ូឡង់បាទ័រ"
+	},
+	"Asia\/Urumqi": {
+		"name": "អ៊ូរាំហ្គី"
+	},
+	"Asia\/Ust-Nera": {
+		"name": "អូស្តណេរ៉ា"
+	},
+	"Asia\/Vientiane": {
+		"name": "វៀងចន្ទន៍"
+	},
+	"Asia\/Vladivostok": {
+		"name": "វ៉្លាដីវ៉ូស្តុក"
+	},
+	"Asia\/Yakutsk": {
+		"name": "យ៉ាគុតស្កិ៍"
+	},
+	"Asia\/Yekaterinburg": {
+		"name": "យ៉េកាធឺរិនប៊ើក"
+	},
+	"Asia\/Yerevan": {
+		"name": "យ៉េរ៉េវ៉ាន់"
+	},
+	"Atlantic\/Azores": {
+		"name": "អាសូរ៉េស"
+	},
+	"Atlantic\/Bermuda": {
+		"name": "ប៉ឺមុយដា"
+	},
+	"Atlantic\/Canary": {
+		"name": "កាណារី"
+	},
+	"Atlantic\/Cape_Verde": {
+		"name": "កាប់វែរ"
+	},
+	"Atlantic\/Madeira": {
+		"name": "ម៉ាដៀរ៉ា"
+	},
+	"Atlantic\/Reykjavik": {
+		"name": "រ៉ៃក្យាវិក"
+	},
+	"Atlantic\/South_Georgia": {
+		"name": "ហ្សកហ្ស៊ី​ខាង​ត្បូង"
+	},
+	"Atlantic\/St_Helena": {
+		"name": "សាំងហេឡេណា"
+	},
+	"Atlantic\/Stanley": {
+		"name": "ស្តង់លី"
+	},
+	"Australia\/Adelaide": {
+		"name": "អាដេឡែត"
+	},
+	"Australia\/Brisbane": {
+		"name": "ប្រីសប៊ែន"
+	},
+	"Australia\/Broken_Hill": {
+		"name": "ប្រូកខិនហីល"
+	},
+	"Australia\/Currie": {
+		"name": "ខូរៀ"
+	},
+	"Australia\/Darwin": {
+		"name": "ដាវីន"
+	},
+	"Australia\/Eucla": {
+		"name": "អ៊ុយក្លា"
+	},
+	"Australia\/Hobart": {
+		"name": "ហូបាត"
+	},
+	"Australia\/Lindeman": {
+		"name": "លីនឌីម៉ែន"
+	},
+	"Australia\/Lord_Howe": {
+		"name": "ឡតហូវ៉េ"
+	},
+	"Australia\/Melbourne": {
+		"name": "ម៉េលប៊ន"
+	},
+	"Australia\/Perth": {
+		"name": "ភឺធ"
+	},
+	"Australia\/Sydney": {
+		"name": "ស៊ីដនី"
+	},
+	"Europe\/Amsterdam": {
+		"name": "អាំស្ទែដាំ"
+	},
+	"Europe\/Andorra": {
+		"name": "អង់ដូរ៉ា"
+	},
+	"Europe\/Astrakhan": {
+		"name": "អាស្ត្រាខាន់"
+	},
+	"Europe\/Athens": {
+		"name": "អាថែន"
+	},
+	"Europe\/Belgrade": {
+		"name": "បែលក្រាដ"
+	},
+	"Europe\/Berlin": {
+		"name": "បែរឡាំង"
+	},
+	"Europe\/Bratislava": {
+		"name": "ប្រាទីស្លាវ៉ា"
+	},
+	"Europe\/Brussels": {
+		"name": "ព្រុចសែល"
+	},
+	"Europe\/Bucharest": {
+		"name": "ប៊ុយការ៉េស"
+	},
+	"Europe\/Budapest": {
+		"name": "ប៊ុយដាប៉ែស"
+	},
+	"Europe\/Busingen": {
+		"name": "ប៊ូស៊ីងហ្គែន"
+	},
+	"Europe\/Chisinau": {
+		"name": "ជីស៊ីណូ"
+	},
+	"Europe\/Copenhagen": {
+		"name": "កូប៉ិនហាក"
+	},
+	"Europe\/Dublin": {
+		"name": "ឌុយប្លាំង"
+	},
+	"Europe\/Gibraltar": {
+		"name": "ហ្ស៊ីប្រាល់តា"
+	},
+	"Europe\/Guernsey": {
+		"name": "ហ្គេនស៊ី"
+	},
+	"Europe\/Helsinki": {
+		"name": "ហែលស៊ិងគី"
+	},
+	"Europe\/Isle_of_Man": {
+		"name": "អែលអុហ្វម៉ែន"
+	},
+	"Europe\/Istanbul": {
+		"name": "អ៊ីស្តង់ប៊ុល"
+	},
+	"Europe\/Jersey": {
+		"name": "ជេស៊ី"
+	},
+	"Europe\/Kaliningrad": {
+		"name": "កាលីនីងហ្រ្គាដ"
+	},
+	"Europe\/Kiev": {
+		"name": "កៀវ"
+	},
+	"Europe\/Kirov": {
+		"name": "គីរ៉ូវ"
+	},
+	"Europe\/Lisbon": {
+		"name": "លីសបោន"
+	},
+	"Europe\/Ljubljana": {
+		"name": "ជូបហ្សាណា"
+	},
+	"Europe\/London": {
+		"name": "ឡុងដ៍"
+	},
+	"Europe\/Luxembourg": {
+		"name": "លុចសំបួ"
+	},
+	"Europe\/Madrid": {
+		"name": "ម៉ាឌ្រីដ"
+	},
+	"Europe\/Malta": {
+		"name": "ម៉ាល់ត៍"
+	},
+	"Europe\/Mariehamn": {
+		"name": "ម៉ារៀហាំ"
+	},
+	"Europe\/Minsk": {
+		"name": "មីនស្កិ៍"
+	},
+	"Europe\/Monaco": {
+		"name": "ម៉ូណាកូ"
+	},
+	"Europe\/Moscow": {
+		"name": "មូស្គូ"
+	},
+	"Europe\/Oslo": {
+		"name": "អូស្លូ"
+	},
+	"Europe\/Paris": {
+		"name": "ប៉ារីស"
+	},
+	"Europe\/Podgorica": {
+		"name": "ប៉ូដហ្គោរីកា"
+	},
+	"Europe\/Prague": {
+		"name": "ប្រាក"
+	},
+	"Europe\/Riga": {
+		"name": "រីហ្គា"
+	},
+	"Europe\/Rome": {
+		"name": "រ៉ូម"
+	},
+	"Europe\/Samara": {
+		"name": "សាម៉ារ៉ា"
+	},
+	"Europe\/San_Marino": {
+		"name": "សាំងម៉ារ៉ាំង"
+	},
+	"Europe\/Sarajevo": {
+		"name": "សារ៉ាយ៉េវ៉ូ"
+	},
+	"Europe\/Saratov": {
+		"name": "Saratov"
+	},
+	"Europe\/Simferopol": {
+		"name": "ស៊ីមហ្វើរ៉ុប៉ូល"
+	},
+	"Europe\/Skopje": {
+		"name": "ស្កុបជេ"
+	},
+	"Europe\/Sofia": {
+		"name": "សូហ៊្វីយ៉ា"
+	},
+	"Europe\/Stockholm": {
+		"name": "ស្តុកខុល"
+	},
+	"Europe\/Tallinn": {
+		"name": "តាលិន"
+	},
+	"Europe\/Tirane": {
+		"name": "ទីរ៉ាណេ"
+	},
+	"Europe\/Ulyanovsk": {
+		"name": "អុលយ៉ាណូវស្កិ៍"
+	},
+	"Europe\/Uzhgorod": {
+		"name": "អ៊ុយហ្គោរ៉ូដ"
+	},
+	"Europe\/Vaduz": {
+		"name": "វ៉ាឌូស"
+	},
+	"Europe\/Vatican": {
+		"name": "វ៉ាទីកង់"
+	},
+	"Europe\/Vienna": {
+		"name": "វីយែន"
+	},
+	"Europe\/Vilnius": {
+		"name": "វីលនីញូស"
+	},
+	"Europe\/Volgograd": {
+		"name": "វ៉ុលហ្គោហ្គ្រាដ"
+	},
+	"Europe\/Warsaw": {
+		"name": "វ៉ាសូវី"
+	},
+	"Europe\/Zagreb": {
+		"name": "សាគ្រែប"
+	},
+	"Europe\/Zaporozhye": {
+		"name": "ហ្សាប៉ូរ៉ូហ្ស៊ីយ៉េ"
+	},
+	"Europe\/Zurich": {
+		"name": "ហ៊្សូរីច"
+	},
+	"Indian\/Antananarivo": {
+		"name": "អង់តាណាណារីវ"
+	},
+	"Indian\/Chagos": {
+		"name": "កាហ្គោ"
+	},
+	"Indian\/Christmas": {
+		"name": "គ្រីស្មាស"
+	},
+	"Indian\/Cocos": {
+		"name": "កូកូស"
+	},
+	"Indian\/Comoro": {
+		"name": "កូម័រ"
+	},
+	"Indian\/Kerguelen": {
+		"name": "ឃឺហ្គុយឡែន"
+	},
+	"Indian\/Mahe": {
+		"name": "ម៉ាហេ"
+	},
+	"Indian\/Maldives": {
+		"name": "ម៉ាល់ឌីវ"
+	},
+	"Indian\/Mauritius": {
+		"name": "ម៉ូរីស"
+	},
+	"Indian\/Mayotte": {
+		"name": "ម៉ាយុត"
+	},
+	"Indian\/Reunion": {
+		"name": "រេអ៊ុយ៉ុង"
+	},
+	"Pacific\/Apia": {
+		"name": "អាពី"
+	},
+	"Pacific\/Auckland": {
+		"name": "អកឡែន"
+	},
+	"Pacific\/Bougainville": {
+		"name": "បូហ្គែនវីល"
+	},
+	"Pacific\/Chatham": {
+		"name": "ចាថាំ"
+	},
+	"Pacific\/Easter": {
+		"name": "អ៊ីស្ទ័រ"
+	},
+	"Pacific\/Efate": {
+		"name": "អ៊ីហ្វាតេ"
+	},
+	"Pacific\/Enderbury": {
+		"name": "អ៊ីនដឺប៊ូរី"
+	},
+	"Pacific\/Fakaofo": {
+		"name": "ហ្វាកៅហ្វូ"
+	},
+	"Pacific\/Fiji": {
+		"name": "ហ្វីជី"
+	},
+	"Pacific\/Funafuti": {
+		"name": "ហ៊្វូណាហ៊្វូទី"
+	},
+	"Pacific\/Galapagos": {
+		"name": "ហ្គាឡាប៉ាហ្គោស"
+	},
+	"Pacific\/Gambier": {
+		"name": "ហ្គាំបៀ"
+	},
+	"Pacific\/Guadalcanal": {
+		"name": "ហ្គាដាល់ខាណាល់"
+	},
+	"Pacific\/Guam": {
+		"name": "ហ្គាំ"
+	},
+	"Pacific\/Kiritimati": {
+		"name": "គិរីទីម៉ាទិ"
+	},
+	"Pacific\/Kosrae": {
+		"name": "កូស្រែ"
+	},
+	"Pacific\/Kwajalein": {
+		"name": "ក្វាហ្សាលៀន"
+	},
+	"Pacific\/Majuro": {
+		"name": "ម៉ាហ្សូរ៉ូ"
+	},
+	"Pacific\/Marquesas": {
+		"name": "ម៉ាហ្គីសាស"
+	},
+	"Pacific\/Midway": {
+		"name": "មីតវ៉េ"
+	},
+	"Pacific\/Nauru": {
+		"name": "ណូរូ"
+	},
+	"Pacific\/Niue": {
+		"name": "នីវ៉េ"
+	},
+	"Pacific\/Norfolk": {
+		"name": "ណ័រហ្វុក"
+	},
+	"Pacific\/Noumea": {
+		"name": "ណូមៀ"
+	},
+	"Pacific\/Pago_Pago": {
+		"name": "ប៉ាហ្គោ ប៉ាហ្គោ"
+	},
+	"Pacific\/Palau": {
+		"name": "ប៉ាឡៅ"
+	},
+	"Pacific\/Pitcairn": {
+		"name": "ភីតខៃរ៉ិន"
+	},
+	"Pacific\/Port_Moresby": {
+		"name": "ព័រម៉ូរេសប៊ី"
+	},
+	"Pacific\/Rarotonga": {
+		"name": "រ៉ារ៉ូតុងហ្គា"
+	},
+	"Pacific\/Saipan": {
+		"name": "សៃប៉ាន"
+	},
+	"Pacific\/Tahiti": {
+		"name": "តាហីទី"
+	},
+	"Pacific\/Tarawa": {
+		"name": "តារ៉ាវ៉ា"
+	},
+	"Pacific\/Tongatapu": {
+		"name": "តុងហ្គាតាពូ"
+	},
+	"Pacific\/Wake": {
+		"name": "វ៉ាគី"
+	},
+	"Pacific\/Wallis": {
+		"name": "វ៉ាលីស"
+	}
+}

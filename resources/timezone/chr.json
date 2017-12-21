@@ -1,0 +1,1244 @@
+{
+	"Africa\/Abidjan": {
+		"name": "ᎠᏈᏣᏂ"
+	},
+	"Africa\/Accra": {
+		"name": "ᎠᏆ"
+	},
+	"Africa\/Addis_Ababa": {
+		"name": "ᎡᏗᏍ ᎠᏆᏆ"
+	},
+	"Africa\/Algiers": {
+		"name": "ᎠᎵᏥᎵ"
+	},
+	"Africa\/Bamako": {
+		"name": "ᏆᎹᎪ"
+	},
+	"Africa\/Bangui": {
+		"name": "ᏇᏂᎫᏫ"
+	},
+	"Africa\/Banjul": {
+		"name": "ᏆᏂᏧᎵ"
+	},
+	"Africa\/Bissau": {
+		"name": "ᏇᏌᏫ"
+	},
+	"Africa\/Blantyre": {
+		"name": "ᏆᏘᎴ"
+	},
+	"Africa\/Brazzaville": {
+		"name": "ᏆᏌᏩᎵ"
+	},
+	"Africa\/Bujumbura": {
+		"name": "ᏊᏧᎻᏊᎳ"
+	},
+	"Africa\/Cairo": {
+		"name": "ᎧᏯᎶ"
+	},
+	"Africa\/Casablanca": {
+		"name": "ᎤᏁᎦ ᎦᎵᏦᏕ"
+	},
+	"Africa\/Ceuta": {
+		"name": "ᏑᏔ"
+	},
+	"Africa\/Conakry": {
+		"name": "ᎪᎾᏈ"
+	},
+	"Africa\/Dakar": {
+		"name": "ᏓᎧᏩ"
+	},
+	"Africa\/Dar_es_Salaam": {
+		"name": "Ꮣ ᎡᏏ ᏌᎳᎻ"
+	},
+	"Africa\/Djibouti": {
+		"name": "ᏥᏊᏗ"
+	},
+	"Africa\/Douala": {
+		"name": "ᏙᎤᏩᎳ"
+	},
+	"Africa\/El_Aaiun": {
+		"name": "ᎡᎵ ᎠᏱᏳᏂ"
+	},
+	"Africa\/Freetown": {
+		"name": "ᎠᏎᏇ ᎦᏚᎲ"
+	},
+	"Africa\/Gaborone": {
+		"name": "ᎦᏉᎶᏁ"
+	},
+	"Africa\/Harare": {
+		"name": "ᎭᎳᎴ"
+	},
+	"Africa\/Johannesburg": {
+		"name": "ᏦᎭᏁᏍᏊᎦ"
+	},
+	"Africa\/Juba": {
+		"name": "ᏧᏆ"
+	},
+	"Africa\/Kampala": {
+		"name": "ᎧᎻᏆᎳ"
+	},
+	"Africa\/Khartoum": {
+		"name": "ᎧᏚᎻ"
+	},
+	"Africa\/Kigali": {
+		"name": "ᎩᎦᎵ"
+	},
+	"Africa\/Kinshasa": {
+		"name": "ᎨᏂᏝᏌ"
+	},
+	"Africa\/Lagos": {
+		"name": "ᎳᎪᏏ"
+	},
+	"Africa\/Libreville": {
+		"name": "ᎵᏇᏫᎵ"
+	},
+	"Africa\/Lome": {
+		"name": "ᎶᎺ"
+	},
+	"Africa\/Luanda": {
+		"name": "ᎷᏩᏂᏓ"
+	},
+	"Africa\/Lubumbashi": {
+		"name": "ᎷᏊᏆᏏ"
+	},
+	"Africa\/Lusaka": {
+		"name": "ᎵᏌᎧ"
+	},
+	"Africa\/Malabo": {
+		"name": "ᎹᎳᏉ"
+	},
+	"Africa\/Maputo": {
+		"name": "ᎹᏊᏙ"
+	},
+	"Africa\/Maseru": {
+		"name": "ᎹᏎᎵ"
+	},
+	"Africa\/Mbabane": {
+		"name": "ᏆᏇᏁ"
+	},
+	"Africa\/Mogadishu": {
+		"name": "ᎼᎦᏗᏡ"
+	},
+	"Africa\/Monrovia": {
+		"name": "ᎼᏂᎶᏫᏯ"
+	},
+	"Africa\/Nairobi": {
+		"name": "ᎾᏱᎶᏈ"
+	},
+	"Africa\/Ndjamena": {
+		"name": "ᎾᏣᎺᎾ"
+	},
+	"Africa\/Niamey": {
+		"name": "ᏂᏯᎺ"
+	},
+	"Africa\/Nouakchott": {
+		"name": "ᎾᏬᏣᏘ"
+	},
+	"Africa\/Ouagadougou": {
+		"name": "ᎣᏩᎦᏚᎫ"
+	},
+	"Africa\/Porto-Novo": {
+		"name": "ᏥᏳᏗᏔᎳᏗᏍᏗ-ᏃᏬ"
+	},
+	"Africa\/Sao_Tome": {
+		"name": "ᏌᎣᏙᎺ"
+	},
+	"Africa\/Tripoli": {
+		"name": "ᏟᏉᎵ"
+	},
+	"Africa\/Tunis": {
+		"name": "ᏚᏂᏏ"
+	},
+	"Africa\/Windhoek": {
+		"name": "ᏪᏄᏗᎰᎩ"
+	},
+	"America\/Adak": {
+		"name": "ᎠᏓᎧ"
+	},
+	"America\/Anchorage": {
+		"name": "ᎠᏂᎪᎴᏥ"
+	},
+	"America\/Anguilla": {
+		"name": "ᎠᏂᎩᎳ"
+	},
+	"America\/Antigua": {
+		"name": "ᎤᏪᏘ"
+	},
+	"America\/Araguaina": {
+		"name": "ᎠᎳᎫᏩᏱᎾ"
+	},
+	"America\/Argentina\/Buenos_Aires": {
+		"name": "ᎣᏍᏓ ᎤᏃᎴ"
+	},
+	"America\/Argentina\/Catamarca": {
+		"name": "ᎧᏔᎹᎧ"
+	},
+	"America\/Argentina\/Cordoba": {
+		"name": "ᎪᏙᏆ"
+	},
+	"America\/Argentina\/Jujuy": {
+		"name": "ᏧᏧᏫ"
+	},
+	"America\/Argentina\/La_Rioja": {
+		"name": "Ꮃ ᎵᏲᎭ"
+	},
+	"America\/Argentina\/Mendoza": {
+		"name": "ᎺᎾᏙᏌ"
+	},
+	"America\/Argentina\/Rio_Gallegos": {
+		"name": "ᎦᏰᎪᏏ ᎤᏪᏴ"
+	},
+	"America\/Argentina\/Salta": {
+		"name": "ᏌᎳᏔ"
+	},
+	"America\/Argentina\/San_Juan": {
+		"name": "ᏌᏂ ᏩᏂ"
+	},
+	"America\/Argentina\/San_Luis": {
+		"name": "ᎤᏓᏅᏗ ᎷᏫᏏ"
+	},
+	"America\/Argentina\/Tucuman": {
+		"name": "ᏚᎫᎹᏂ"
+	},
+	"America\/Argentina\/Ushuaia": {
+		"name": "ᎤᏑᏩᏯ"
+	},
+	"America\/Aruba": {
+		"name": "ᎠᎷᏆ"
+	},
+	"America\/Asuncion": {
+		"name": "ᎠᏑᏏᏲᏅ"
+	},
+	"America\/Bahia": {
+		"name": "ᏆᎯᏯ"
+	},
+	"America\/Bahia_Banderas": {
+		"name": "ᏆᎯᏯ ᏆᏂᏕᎳᏏ"
+	},
+	"America\/Barbados": {
+		"name": "ᏆᏇᏙᏍ"
+	},
+	"America\/Belem": {
+		"name": "ᏇᎴᎻ"
+	},
+	"America\/Belize": {
+		"name": "ᏇᎵᏍ"
+	},
+	"America\/Blanc-Sablon": {
+		"name": "ᏝᏂ-ᏌᏠᏂ"
+	},
+	"America\/Boa_Vista": {
+		"name": "ᎣᏍᏓ ᎠᎪᎵᏰᏗ"
+	},
+	"America\/Bogota": {
+		"name": "ᏉᎪᏔ"
+	},
+	"America\/Boise": {
+		"name": "ᏉᏱᏏ"
+	},
+	"America\/Cambridge_Bay": {
+		"name": "ᎨᎻᏈᏥ ᎡᏉᏄᎸᏗ"
+	},
+	"America\/Campo_Grande": {
+		"name": "ᎤᏔᎾ ᏠᎨᏏ"
+	},
+	"America\/Cancun": {
+		"name": "ᎨᏂᎫᏂ"
+	},
+	"America\/Caracas": {
+		"name": "ᎧᎳᎧᏏ"
+	},
+	"America\/Cayenne": {
+		"name": "ᎧᏰᏂ"
+	},
+	"America\/Cayman": {
+		"name": "ᎨᎢᎹᏂ"
+	},
+	"America\/Chicago": {
+		"name": "ᏥᎧᎩ"
+	},
+	"America\/Chihuahua": {
+		"name": "ᏥᏩᏩ"
+	},
+	"America\/Costa_Rica": {
+		"name": "ᎪᏍᏓᎵᎧ"
+	},
+	"America\/Creston": {
+		"name": "ᏞᏍᏔᏂ"
+	},
+	"America\/Cuiaba": {
+		"name": "ᏧᏫᏆ"
+	},
+	"America\/Curacao": {
+		"name": "ᎫᎳᎨᎣ"
+	},
+	"America\/Danmarkshavn": {
+		"name": "ᏕᎾᎹᎧᏌᏩᏂ"
+	},
+	"America\/Dawson": {
+		"name": "ᏓᏌᏂ"
+	},
+	"America\/Dawson_Creek": {
+		"name": "ᏓᏌᏂ ᎤᏪᏴ"
+	},
+	"America\/Denver": {
+		"name": "ᎦᎸᎳᏗ ᎦᏚᎲ"
+	},
+	"America\/Detroit": {
+		"name": "ᏗᏠᏘ"
+	},
+	"America\/Dominica": {
+		"name": "ᏙᎻᏂᎧ"
+	},
+	"America\/Edmonton": {
+		"name": "ᎡᏗᎹᏂᏔᏂ"
+	},
+	"America\/Eirunepe": {
+		"name": "ᎡᎷᏁᏇ"
+	},
+	"America\/El_Salvador": {
+		"name": "ᎡᎵ ᏌᎵᏆᏙᎵ"
+	},
+	"America\/Fort_Nelson": {
+		"name": "ᏗᏐᏴ ᏁᎵᏌᏂ"
+	},
+	"America\/Fortaleza": {
+		"name": "ᏬᏔᎴᏎ"
+	},
+	"America\/Glace_Bay": {
+		"name": "ᏞᏏ ᎡᏉᏄᎸᏗ"
+	},
+	"America\/Godthab": {
+		"name": "ᏄᎩ"
+	},
+	"America\/Goose_Bay": {
+		"name": "ᏌᏌ ᎡᏉᏄᎸᏗ"
+	},
+	"America\/Grand_Turk": {
+		"name": "ᏄᎬᏫᏳᏒ ᎬᎾ"
+	},
+	"America\/Grenada": {
+		"name": "ᏋᎾᏓ"
+	},
+	"America\/Guadeloupe": {
+		"name": "ᏩᏓᎷᏇ"
+	},
+	"America\/Guatemala": {
+		"name": "ᏩᏔᎹᎳ"
+	},
+	"America\/Guayaquil": {
+		"name": "ᏆᏯᎩᎵ"
+	},
+	"America\/Guyana": {
+		"name": "ᎦᏯᎾ"
+	},
+	"America\/Halifax": {
+		"name": "ᎭᎵᏩᎧᏏ"
+	},
+	"America\/Havana": {
+		"name": "ᎭᏩᎾ"
+	},
+	"America\/Hermosillo": {
+		"name": "ᎮᎼᏏᎶ"
+	},
+	"America\/Indiana\/Indianapolis": {
+		"name": "ᎢᏂᏗᎠᏂᎠᏉᎵᏏ"
+	},
+	"America\/Indiana\/Knox": {
+		"name": "ᏃᏈᏏ, ᎢᏂᏗᏰᎾ"
+	},
+	"America\/Indiana\/Marengo": {
+		"name": "ᎹᎴᏂᎪ, ᎢᏂᏗᏰᎾ"
+	},
+	"America\/Indiana\/Petersburg": {
+		"name": "ᏈᏓᏈᎦ, ᎢᏂᏗᏰᎾ"
+	},
+	"America\/Indiana\/Tell_City": {
+		"name": "ᏖᎵ ᎦᏚᎲ, ᎢᏂᏗᏰᎾ"
+	},
+	"America\/Indiana\/Vevay": {
+		"name": "ᏪᏪ, ᎢᏂᏗᏰᎾ"
+	},
+	"America\/Indiana\/Vincennes": {
+		"name": "ᏫᏂᏎᏁᏏ, ᎢᏂᏗᏰᎾ"
+	},
+	"America\/Indiana\/Winamac": {
+		"name": "ᏫᎾᎹᎩ, ᎢᏂᏗᏰᎾ"
+	},
+	"America\/Inuvik": {
+		"name": "ᎢᏄᏫᎩ"
+	},
+	"America\/Iqaluit": {
+		"name": "ᎢᏆᎷᏱᏘ"
+	},
+	"America\/Jamaica": {
+		"name": "ᏣᎺᎢᎧ"
+	},
+	"America\/Juneau": {
+		"name": "ᏧᏃ"
+	},
+	"America\/Kentucky\/Louisville": {
+		"name": "ᎷᏫᏫᎵ"
+	},
+	"America\/Kentucky\/Monticello": {
+		"name": "ᎹᏂᏔᏎᎶ, ᎬᏅᏓᎩ"
+	},
+	"America\/Kralendijk": {
+		"name": "ᏆᎴᏂᏗ"
+	},
+	"America\/La_Paz": {
+		"name": "ᏙᎯ"
+	},
+	"America\/Lima": {
+		"name": "ᎵᎹ"
+	},
+	"America\/Los_Angeles": {
+		"name": "ᎾᏍᎩ ᏗᏂᎧᎿᏩᏗᏙᎯ"
+	},
+	"America\/Lower_Princes": {
+		"name": "ᎡᎳᏗ ᏗᏜ ᎤᎬᏫᏳᎯ ᎩᏄᏙᏗ"
+	},
+	"America\/Maceio": {
+		"name": "ᎹᏎᏲ"
+	},
+	"America\/Managua": {
+		"name": "ᎹᎾᏆ"
+	},
+	"America\/Manaus": {
+		"name": "ᎹᎾᎤᏏ"
+	},
+	"America\/Marigot": {
+		"name": "ᎹᎵᎦᏘ"
+	},
+	"America\/Martinique": {
+		"name": "ᎹᏘᏂᏇ"
+	},
+	"America\/Matamoros": {
+		"name": "ᎹᏔᎼᎶᏏ"
+	},
+	"America\/Mazatlan": {
+		"name": "ᎹᏌᏝᏂ"
+	},
+	"America\/Menominee": {
+		"name": "ᎺᏃᎻᏂ"
+	},
+	"America\/Merida": {
+		"name": "ᎺᎵᏓ"
+	},
+	"America\/Metlakatla": {
+		"name": "ᎺᏝᎧᏝ"
+	},
+	"America\/Mexico_City": {
+		"name": "ᎠᏂᏍᏆᏂ ᎦᏚᎲ"
+	},
+	"America\/Miquelon": {
+		"name": "ᎻᎨᎶᏂ"
+	},
+	"America\/Moncton": {
+		"name": "ᎹᎾᏔᏂ"
+	},
+	"America\/Monterrey": {
+		"name": "ᎼᏖᎵ"
+	},
+	"America\/Montevideo": {
+		"name": "ᎼᏂᏖᏫᏕᏲ"
+	},
+	"America\/Montserrat": {
+		"name": "ᎹᏂᏘᏌᎳᏗ"
+	},
+	"America\/Nassau": {
+		"name": "ᎾᏌᏫ"
+	},
+	"America\/New_York": {
+		"name": "ᏄᏯᎩ"
+	},
+	"America\/Nipigon": {
+		"name": "ᏂᏈᎪᏂ"
+	},
+	"America\/Nome": {
+		"name": "ᏃᎺ"
+	},
+	"America\/Noronha": {
+		"name": "ᏃᎶᎾᎭ"
+	},
+	"America\/North_Dakota\/Beulah": {
+		"name": "ᏇᏳᎳ, ᏧᏴᏢ ᏓᎪᏔ"
+	},
+	"America\/North_Dakota\/Center": {
+		"name": "ᎠᏰᏟ, ᏧᏴᏢ ᏓᎪᏔ"
+	},
+	"America\/North_Dakota\/New_Salem": {
+		"name": "ᎢᏤ ᏎᎴᎻ, ᏧᏴᏢ ᏓᎪᏔ"
+	},
+	"America\/Ojinaga": {
+		"name": "ᎣᏥᎾᎦ"
+	},
+	"America\/Panama": {
+		"name": "ᏆᎾᎹ"
+	},
+	"America\/Pangnirtung": {
+		"name": "ᏆᏂᏂᏚᏂᎦ"
+	},
+	"America\/Paramaribo": {
+		"name": "ᏆᎳᎹᎴᏉ"
+	},
+	"America\/Phoenix": {
+		"name": "ᏧᎴᎯᏌᏅᎯ"
+	},
+	"America\/Port-au-Prince": {
+		"name": "ᏥᏳᏗᏔᎳᏗᏍᏗ-ᎾᎿ-ᎤᎬᏫᏳᎯ"
+	},
+	"America\/Port_of_Spain": {
+		"name": "ᏥᏳᏗᏔᎳᏗᏍᏗ ᏍᏆᏂᎨᏍᏛ"
+	},
+	"America\/Porto_Velho": {
+		"name": "ᎤᏪᏘ ᏥᏳᏗᏔᎳᏗᏍᏗ"
+	},
+	"America\/Puerto_Rico": {
+		"name": "ᏇᎡᏙ ᎵᎢᎪ"
+	},
+	"America\/Punta_Arenas": {
+		"name": "ᏊᏔ ᎡᏫᎾᏍ"
+	},
+	"America\/Rainy_River": {
+		"name": "ᎠᎦᏍᎦ ᎤᏪᏴ"
+	},
+	"America\/Rankin_Inlet": {
+		"name": "ᎴᏂᎩᏂ ᎢᏂᎴᏘ"
+	},
+	"America\/Recife": {
+		"name": "ᎴᏏᏪ"
+	},
+	"America\/Regina": {
+		"name": "ᎴᎩᎾ"
+	},
+	"America\/Resolute": {
+		"name": "ᎴᏐᎷᏘ"
+	},
+	"America\/Rio_Branco": {
+		"name": "ᎤᏁᎦ ᎤᏪᏴ"
+	},
+	"America\/Santarem": {
+		"name": "ᏌᏂᏔᎴᎻ"
+	},
+	"America\/Santiago": {
+		"name": "ᏌᏂᏘᏯᎪ"
+	},
+	"America\/Santo_Domingo": {
+		"name": "ᏌᏂᏙ ᏙᎻᎪ"
+	},
+	"America\/Sao_Paulo": {
+		"name": "ᏌᎣ ᏆᎶ"
+	},
+	"America\/Scoresbysund": {
+		"name": "ᎢᏙᎪᏙᎻᏘ"
+	},
+	"America\/Sitka": {
+		"name": "ᏏᏘᎧ"
+	},
+	"America\/St_Barthelemy": {
+		"name": "ᎤᏓᏅᏘ ᏆᎵᏞᎴᎻ"
+	},
+	"America\/St_Johns": {
+		"name": "ᎤᏓᏅᏘ ᏣᏂ ᎤᏤᎵ"
+	},
+	"America\/St_Kitts": {
+		"name": "ᎤᏓᏅᏘ ᎩᏘᏏ"
+	},
+	"America\/St_Lucia": {
+		"name": "ᎤᏓᏅᏘ ᎷᏏᏯ"
+	},
+	"America\/St_Thomas": {
+		"name": "ᎤᏓᏅᏘ ᏙᎹᏏ"
+	},
+	"America\/St_Vincent": {
+		"name": "ᎤᏓᏅᏘ ᏫᏂᏎᏘ"
+	},
+	"America\/Swift_Current": {
+		"name": "ᎠᏯᏄᎵ ᎤᏃᎴ"
+	},
+	"America\/Tegucigalpa": {
+		"name": "ᏖᎫᏏᎦᎵᏆ"
+	},
+	"America\/Thule": {
+		"name": "ᏡᎵ"
+	},
+	"America\/Thunder_Bay": {
+		"name": "ᎠᏴᏓᏆᎶᏍᎦ ᎡᏉᏄᎸᏗ"
+	},
+	"America\/Tijuana": {
+		"name": "ᏘᏳᏩᎾ"
+	},
+	"America\/Toronto": {
+		"name": "ᏙᎳᎾᏙ"
+	},
+	"America\/Tortola": {
+		"name": "ᏙᏙᎳ"
+	},
+	"America\/Vancouver": {
+		"name": "ᏪᏂᎫᏪᎵ"
+	},
+	"America\/Whitehorse": {
+		"name": "ᎤᏁᎦ ᏐᏈᎵ"
+	},
+	"America\/Winnipeg": {
+		"name": "ᏫᏂᏇᎩ"
+	},
+	"America\/Yakutat": {
+		"name": "ᏯᎫᏔᏘ"
+	},
+	"America\/Yellowknife": {
+		"name": "ᏓᎶᏂᎨ ᎭᏰᏍᏗ"
+	},
+	"Antarctica\/Casey": {
+		"name": "ᎨᏏ"
+	},
+	"Antarctica\/Davis": {
+		"name": "ᏕᏫᏏ"
+	},
+	"Antarctica\/DumontDUrville": {
+		"name": "ᏚᎼᎾᏘ-Ꮧ’ᎤᎵᏫᎵ"
+	},
+	"Antarctica\/Macquarie": {
+		"name": "ᎹᏇᎵ"
+	},
+	"Antarctica\/Mawson": {
+		"name": "ᎹᏌᏂ"
+	},
+	"Antarctica\/McMurdo": {
+		"name": "ᎻᎦᎽᏙ"
+	},
+	"Antarctica\/Palmer": {
+		"name": "ᏆᎵᎺᎵ"
+	},
+	"Antarctica\/Rothera": {
+		"name": "ᎳᏞᎳ"
+	},
+	"Antarctica\/Syowa": {
+		"name": "ᏏᏲᏩ"
+	},
+	"Antarctica\/Troll": {
+		"name": "ᏠᎵ"
+	},
+	"Antarctica\/Vostok": {
+		"name": "ᏬᏍᏙᎧ"
+	},
+	"Arctic\/Longyearbyen": {
+		"name": "ᎦᏅᎯᏓ ᎤᏕᏘᏴᏌᏗᏒᎢ ᎦᏚᎲ"
+	},
+	"Asia\/Aden": {
+		"name": "ᎡᏕᏂ"
+	},
+	"Asia\/Almaty": {
+		"name": "ᎠᎵᎹᏘ"
+	},
+	"Asia\/Amman": {
+		"name": "ᎠᎹᏂ"
+	},
+	"Asia\/Anadyr": {
+		"name": "ᎠᎾᏗᎵ"
+	},
+	"Asia\/Aqtau": {
+		"name": "ᎠᎦᏔᏫ"
+	},
+	"Asia\/Aqtobe": {
+		"name": "ᎠᎦᏙᏇ"
+	},
+	"Asia\/Ashgabat": {
+		"name": "ᎠᏍᎦᏆᏘ"
+	},
+	"Asia\/Atyrau": {
+		"name": "ᎠᏘᏆᎤ"
+	},
+	"Asia\/Baghdad": {
+		"name": "ᏆᎩᏓᏗ"
+	},
+	"Asia\/Bahrain": {
+		"name": "ᏆᎭᎴᎢᏂ"
+	},
+	"Asia\/Baku": {
+		"name": "ᏆᎫ"
+	},
+	"Asia\/Bangkok": {
+		"name": "ᏇᏂᎩᎪᎩ"
+	},
+	"Asia\/Barnaul": {
+		"name": "ᏆᎾᎣᎵ"
+	},
+	"Asia\/Beirut": {
+		"name": "ᏇᎷᏘ"
+	},
+	"Asia\/Bishkek": {
+		"name": "ᏇᏍᎨᎩ"
+	},
+	"Asia\/Brunei": {
+		"name": "ᏊᎾᎢ"
+	},
+	"Asia\/Chita": {
+		"name": "ᏥᏔ"
+	},
+	"Asia\/Choibalsan": {
+		"name": "ᏦᏱᏆᎵᏌᏂ"
+	},
+	"Asia\/Colombo": {
+		"name": "ᎪᎶᎻᏉ"
+	},
+	"Asia\/Damascus": {
+		"name": "ᏓᎹᏍᎬᏏ"
+	},
+	"Asia\/Dhaka": {
+		"name": "ᏓᎧ"
+	},
+	"Asia\/Dili": {
+		"name": "ᏗᎵ"
+	},
+	"Asia\/Dubai": {
+		"name": "ᏚᏆᏱ"
+	},
+	"Asia\/Dushanbe": {
+		"name": "ᏚᏝᎾᏇ"
+	},
+	"Asia\/Famagusta": {
+		"name": "ᏆᎹᎫᏍᏔ"
+	},
+	"Asia\/Gaza": {
+		"name": "ᎦᏌ"
+	},
+	"Asia\/Hebron": {
+		"name": "ᎮᏉᏂ"
+	},
+	"Asia\/Hong_Kong": {
+		"name": "ᎰᏂᎩ ᎪᏂᎩ"
+	},
+	"Asia\/Hovd": {
+		"name": "ᎰᏩᏗ"
+	},
+	"Asia\/Irkutsk": {
+		"name": "ᎢᎫᏥᎧ"
+	},
+	"Asia\/Jakarta": {
+		"name": "ᏣᎧᏔ"
+	},
+	"Asia\/Jayapura": {
+		"name": "ᏣᏯᏋᎳ"
+	},
+	"Asia\/Jerusalem": {
+		"name": "ᏤᎷᏌᎴᎻ"
+	},
+	"Asia\/Kabul": {
+		"name": "ᎧᏊᎵ"
+	},
+	"Asia\/Kamchatka": {
+		"name": "ᎧᎻᏣᎧ"
+	},
+	"Asia\/Karachi": {
+		"name": "ᎧᎳᏥ"
+	},
+	"Asia\/Khandyga": {
+		"name": "ᎧᏂᏗᎦ"
+	},
+	"Asia\/Krasnoyarsk": {
+		"name": "ᏝᏍᏃᏯᏍᎧ"
+	},
+	"Asia\/Kuala_Lumpur": {
+		"name": "ᎫᏩᎳ ᎸᎻᏋ"
+	},
+	"Asia\/Kuching": {
+		"name": "ᎫᏥᏂᎦ"
+	},
+	"Asia\/Kuwait": {
+		"name": "ᎫᏪᏘ"
+	},
+	"Asia\/Macau": {
+		"name": "ᎹᎧᎤ"
+	},
+	"Asia\/Magadan": {
+		"name": "ᎹᎦᏓᏂ"
+	},
+	"Asia\/Makassar": {
+		"name": "ᎹᎧᏌᎵ"
+	},
+	"Asia\/Manila": {
+		"name": "ᎹᏂᎳ"
+	},
+	"Asia\/Muscat": {
+		"name": "ᎽᏍᎦᏘ"
+	},
+	"Asia\/Nicosia": {
+		"name": "ᏂᎪᏏᏯ"
+	},
+	"Asia\/Novokuznetsk": {
+		"name": "ᏃᏬᎫᏁᏖᏍᎧ"
+	},
+	"Asia\/Novosibirsk": {
+		"name": "ᏃᏬᏏᏈᏍᎧ"
+	},
+	"Asia\/Omsk": {
+		"name": "ᎣᎻᏍᎧ"
+	},
+	"Asia\/Oral": {
+		"name": "ᎣᎳᎵ"
+	},
+	"Asia\/Phnom_Penh": {
+		"name": "ᎿᎻ ᏇᏂ"
+	},
+	"Asia\/Pontianak": {
+		"name": "ᏆᏂᏘᎠᎾᎩ"
+	},
+	"Asia\/Pyongyang": {
+		"name": "ᏈᏯᏂᎩᏰᏂᎩ"
+	},
+	"Asia\/Qatar": {
+		"name": "ᎧᏔᎵ"
+	},
+	"Asia\/Qyzylorda": {
+		"name": "ᎩᏏᎶᎳᏓ"
+	},
+	"Asia\/Riyadh": {
+		"name": "ᎵᏯᏗ"
+	},
+	"Asia\/Sakhalin": {
+		"name": "ᏌᎧᎵᏂ"
+	},
+	"Asia\/Samarkand": {
+		"name": "ᏌᎹᎧᏂᏗ"
+	},
+	"Asia\/Seoul": {
+		"name": "ᏐᎵ"
+	},
+	"Asia\/Shanghai": {
+		"name": "ᏎᏂᎦᎭᏱ"
+	},
+	"Asia\/Singapore": {
+		"name": "ᏏᏂᎦᏉᎵ"
+	},
+	"Asia\/Srednekolymsk": {
+		"name": "ᏍᎴᏗᏁᎪᎵᎻᏍᎧ"
+	},
+	"Asia\/Taipei": {
+		"name": "ᏔᏱᏇ"
+	},
+	"Asia\/Tashkent": {
+		"name": "ᏔᏏᎨᏂᏘ"
+	},
+	"Asia\/Tbilisi": {
+		"name": "ᏘᏈᎵᏏ"
+	},
+	"Asia\/Tehran": {
+		"name": "ᏖᎳᏂ"
+	},
+	"Asia\/Thimphu": {
+		"name": "ᏞᎻᏡ"
+	},
+	"Asia\/Tokyo": {
+		"name": "ᏙᎩᏲ"
+	},
+	"Asia\/Tomsk": {
+		"name": "ᏙᎻᏍᎧ"
+	},
+	"Asia\/Ulaanbaatar": {
+		"name": "ᎤᎳᏂᏆᏔ"
+	},
+	"Asia\/Urumqi": {
+		"name": "ᎤᎷᎻᎩ"
+	},
+	"Asia\/Ust-Nera": {
+		"name": "ᎤᏍᏔ-ᏁᎳ"
+	},
+	"Asia\/Vientiane": {
+		"name": "ᏫᏰᏂᏘᏯᏁ"
+	},
+	"Asia\/Vladivostok": {
+		"name": "ᏭᎳᏗᏬᏍᏙᎩ"
+	},
+	"Asia\/Yakutsk": {
+		"name": "ᏯᎫᏥᎧ"
+	},
+	"Asia\/Yekaterinburg": {
+		"name": "ᏰᎧᏖᎵᏂᏊᎦ"
+	},
+	"Asia\/Yerevan": {
+		"name": "ᏰᎴᏪᏂ"
+	},
+	"Atlantic\/Azores": {
+		"name": "ᎠᏐᎴᏏ"
+	},
+	"Atlantic\/Bermuda": {
+		"name": "ᏆᏊᏓ"
+	},
+	"Atlantic\/Canary": {
+		"name": "ᏥᏍᏆ"
+	},
+	"Atlantic\/Cape_Verde": {
+		"name": "ᎢᎬᎾᏕᎾ ᎢᏤᏳᏍᏗ"
+	},
+	"Atlantic\/Madeira": {
+		"name": "ᎹᏕᎳ"
+	},
+	"Atlantic\/Reykjavik": {
+		"name": "ᎴᏣᏫᎩ"
+	},
+	"Atlantic\/South_Georgia": {
+		"name": "ᏧᎦᎾᏮ ᏣᎠᏥᎢ"
+	},
+	"Atlantic\/St_Helena": {
+		"name": "ᎤᏓᏅᏘ ᎮᎵᎾ"
+	},
+	"Atlantic\/Stanley": {
+		"name": "ᏍᏕᏂᎵ"
+	},
+	"Australia\/Adelaide": {
+		"name": "ᎡᏕᎴᏗ"
+	},
+	"Australia\/Brisbane": {
+		"name": "ᏇᏍᏇᏂ"
+	},
+	"Australia\/Broken_Hill": {
+		"name": "ᎤᏲᏨᎯ ᎦᏚᏏ"
+	},
+	"Australia\/Currie": {
+		"name": "ᎫᎵ"
+	},
+	"Australia\/Darwin": {
+		"name": "ᏓᏩᏂ"
+	},
+	"Australia\/Eucla": {
+		"name": "ᏳᏝ"
+	},
+	"Australia\/Hobart": {
+		"name": "ᎰᏆᏘ"
+	},
+	"Australia\/Lindeman": {
+		"name": "ᎴᎾᏕᎹᏂ"
+	},
+	"Australia\/Lord_Howe": {
+		"name": "ᎤᎬᏫᏳᎯ ᎭᏫ"
+	},
+	"Australia\/Melbourne": {
+		"name": "ᎺᎵᏉᏁ"
+	},
+	"Australia\/Perth": {
+		"name": "ᏇᎵᏝ"
+	},
+	"Australia\/Sydney": {
+		"name": "ᏏᏗᏂ"
+	},
+	"Europe\/Amsterdam": {
+		"name": "ᎠᎻᏍᏕᏓᎻ"
+	},
+	"Europe\/Andorra": {
+		"name": "ᎠᏂᏙᏩ"
+	},
+	"Europe\/Astrakhan": {
+		"name": "ᎠᏝᎧᏂ"
+	},
+	"Europe\/Athens": {
+		"name": "ᎠᏖᏂᏏ"
+	},
+	"Europe\/Belgrade": {
+		"name": "ᏇᎵᏇᏗ"
+	},
+	"Europe\/Berlin": {
+		"name": "ᏇᎵᏂ"
+	},
+	"Europe\/Bratislava": {
+		"name": "ᏆᏘᏍᎳᏩ"
+	},
+	"Europe\/Brussels": {
+		"name": "ᏋᏎᎵᏏ"
+	},
+	"Europe\/Bucharest": {
+		"name": "ᏇᏣᎴᏍᏗ"
+	},
+	"Europe\/Budapest": {
+		"name": "ᏊᏓᏇᏍᏗ"
+	},
+	"Europe\/Busingen": {
+		"name": "ᏊᏏᏂᎨᏂ"
+	},
+	"Europe\/Chisinau": {
+		"name": "ᏥᏏᎾᏫ"
+	},
+	"Europe\/Copenhagen": {
+		"name": "ᎪᏇᏂᎮᎨᏂ"
+	},
+	"Europe\/Dublin": {
+		"name": "ᏛᎵᏂ"
+	},
+	"Europe\/Gibraltar": {
+		"name": "ᏥᏆᎵᏓ"
+	},
+	"Europe\/Guernsey": {
+		"name": "ᎬᏂᏏ"
+	},
+	"Europe\/Helsinki": {
+		"name": "ᎮᎵᏏᏂᎩ"
+	},
+	"Europe\/Isle_of_Man": {
+		"name": "ᎤᏍᏗᎤᎦᏚᏛ ᎾᎿ ᎠᏍᎦᏯ"
+	},
+	"Europe\/Istanbul": {
+		"name": "ᎢᏍᏔᏂᏊᎵ"
+	},
+	"Europe\/Jersey": {
+		"name": "ᏨᎵᏏ"
+	},
+	"Europe\/Kaliningrad": {
+		"name": "ᎧᎵᏂᏆᏗ"
+	},
+	"Europe\/Kiev": {
+		"name": "ᎩᏫ"
+	},
+	"Europe\/Kirov": {
+		"name": "ᎩᎶᏩ"
+	},
+	"Europe\/Lisbon": {
+		"name": "ᎵᏏᏉᏂ"
+	},
+	"Europe\/Ljubljana": {
+		"name": "ᏧᏣᎾ"
+	},
+	"Europe\/London": {
+		"name": "ᎸᏂᏓᏂ"
+	},
+	"Europe\/Luxembourg": {
+		"name": "ᎸᎧᏎᏋᎩ"
+	},
+	"Europe\/Madrid": {
+		"name": "ᎹᏟᏗ"
+	},
+	"Europe\/Malta": {
+		"name": "ᎹᎵᏔ"
+	},
+	"Europe\/Mariehamn": {
+		"name": "ᎺᎵᎭᎻ"
+	},
+	"Europe\/Minsk": {
+		"name": "ᎺᏂᏍᎩ"
+	},
+	"Europe\/Monaco": {
+		"name": "ᎼᎾᎪ"
+	},
+	"Europe\/Moscow": {
+		"name": "ᎹᏍᎦᏫ"
+	},
+	"Europe\/Oslo": {
+		"name": "ᎣᏏᎶ"
+	},
+	"Europe\/Paris": {
+		"name": "ᏇᏫᏏ"
+	},
+	"Europe\/Podgorica": {
+		"name": "ᏉᎪᎵᎧ"
+	},
+	"Europe\/Prague": {
+		"name": "ᏆᏇ"
+	},
+	"Europe\/Riga": {
+		"name": "ᎵᎦ"
+	},
+	"Europe\/Rome": {
+		"name": "ᎶᎻ"
+	},
+	"Europe\/Samara": {
+		"name": "ᏌᎹᎳ"
+	},
+	"Europe\/San_Marino": {
+		"name": "ᎹᎵᏃ"
+	},
+	"Europe\/Sarajevo": {
+		"name": "ᏌᎳᏤᏬ"
+	},
+	"Europe\/Saratov": {
+		"name": "ᏌᏆᏙᎥ"
+	},
+	"Europe\/Simferopol": {
+		"name": "ᏏᎻᏪᎶᏉᎵ"
+	},
+	"Europe\/Skopje": {
+		"name": "ᏍᎪᏤ"
+	},
+	"Europe\/Sofia": {
+		"name": "ᏐᏟᎠ"
+	},
+	"Europe\/Stockholm": {
+		"name": "ᏍᏓᎩᎰᎻ"
+	},
+	"Europe\/Tallinn": {
+		"name": "ᏔᎵᏂ"
+	},
+	"Europe\/Tirane": {
+		"name": "ᏘᎳᎾ"
+	},
+	"Europe\/Ulyanovsk": {
+		"name": "ᎤᎵᏯᏃᏬᏍᎧ"
+	},
+	"Europe\/Uzhgorod": {
+		"name": "ᎤᏍᎪᎶᏗ"
+	},
+	"Europe\/Vaduz": {
+		"name": "ᏩᏚᏏ"
+	},
+	"Europe\/Vatican": {
+		"name": "ᎠᏥᎳᏁᏠ"
+	},
+	"Europe\/Vienna": {
+		"name": "ᏫᏰᎾ"
+	},
+	"Europe\/Vilnius": {
+		"name": "ᏫᎵᏂᏴᏏ"
+	},
+	"Europe\/Volgograd": {
+		"name": "ᏬᎶᎪᏝᏗ"
+	},
+	"Europe\/Warsaw": {
+		"name": "ᏓᎿᏩ ᎤᎪᎲᎩ"
+	},
+	"Europe\/Zagreb": {
+		"name": "ᏌᏇᏈ"
+	},
+	"Europe\/Zaporozhye": {
+		"name": "ᏌᏉᎶᏌᏱ"
+	},
+	"Europe\/Zurich": {
+		"name": "ᏑᎵᏥ"
+	},
+	"Indian\/Antananarivo": {
+		"name": "ᎠᏂᏔᎾᎾᎵᏬ"
+	},
+	"Indian\/Chagos": {
+		"name": "ᏣᎪᏏ"
+	},
+	"Indian\/Christmas": {
+		"name": "ᏓᏂᏍᏓᏲᎯᎲ"
+	},
+	"Indian\/Cocos": {
+		"name": "ᎪᎪᏍ"
+	},
+	"Indian\/Comoro": {
+		"name": "ᎪᎼᎳ"
+	},
+	"Indian\/Kerguelen": {
+		"name": "ᎬᎵᎫᏰᎴᏂ"
+	},
+	"Indian\/Mahe": {
+		"name": "ᎹᎮ"
+	},
+	"Indian\/Maldives": {
+		"name": "ᎹᎵᏗᏫᏍ"
+	},
+	"Indian\/Mauritius": {
+		"name": "ᎼᎵᏏᎥᏍ"
+	},
+	"Indian\/Mayotte": {
+		"name": "ᎺᏯᏖ"
+	},
+	"Indian\/Reunion": {
+		"name": "ᎴᏳᏂᎠᏂ"
+	},
+	"Pacific\/Apia": {
+		"name": "ᎠᏈᎠ"
+	},
+	"Pacific\/Auckland": {
+		"name": "ᎠᎦᎳᎾᏗ"
+	},
+	"Pacific\/Bougainville": {
+		"name": "ᏊᎨᏂᏫᎵ"
+	},
+	"Pacific\/Chatham": {
+		"name": "ᏣᏝᎻ"
+	},
+	"Pacific\/Easter": {
+		"name": "ᏥᏌᏕᎴᎯᏌᏅ"
+	},
+	"Pacific\/Efate": {
+		"name": "ᎡᏩᏖ"
+	},
+	"Pacific\/Enderbury": {
+		"name": "ᎡᏂᏇᎵ"
+	},
+	"Pacific\/Fakaofo": {
+		"name": "ᏩᎧᎣᏬ"
+	},
+	"Pacific\/Fiji": {
+		"name": "ᏫᏥ"
+	},
+	"Pacific\/Funafuti": {
+		"name": "ᏡᎾᏡᏘ"
+	},
+	"Pacific\/Galapagos": {
+		"name": "ᎡᏆ ᏓᎦᏏ ᎤᎦᏚᏛᎢ"
+	},
+	"Pacific\/Gambier": {
+		"name": "ᎦᎻᏇᎵ"
+	},
+	"Pacific\/Guadalcanal": {
+		"name": "ᏆᏓᎵᎧᎾᎵ"
+	},
+	"Pacific\/Guam": {
+		"name": "ᏆᎻ"
+	},
+	"Pacific\/Kiritimati": {
+		"name": "ᎩᎵᏘᎹᏘ"
+	},
+	"Pacific\/Kosrae": {
+		"name": "ᎪᏍᎴ"
+	},
+	"Pacific\/Kwajalein": {
+		"name": "ᏆᏣᎴᎢᏂ"
+	},
+	"Pacific\/Majuro": {
+		"name": "ᎹᏧᎶ"
+	},
+	"Pacific\/Marquesas": {
+		"name": "ᎹᎵᎨᏌᏏ"
+	},
+	"Pacific\/Midway": {
+		"name": "ᎠᏰᏟᏴᏚ"
+	},
+	"Pacific\/Nauru": {
+		"name": "ᏃᎤᎷ"
+	},
+	"Pacific\/Niue": {
+		"name": "ᏂᏳ"
+	},
+	"Pacific\/Norfolk": {
+		"name": "ᏃᎵᏬᎵᎩ"
+	},
+	"Pacific\/Noumea": {
+		"name": "ᏃᎤᎺᎠ"
+	},
+	"Pacific\/Pago_Pago": {
+		"name": "ᏆᎪ ᏆᎪ"
+	},
+	"Pacific\/Palau": {
+		"name": "ᏆᎴᎠᏫ"
+	},
+	"Pacific\/Pitcairn": {
+		"name": "ᏈᎧᎵᏂᎤ"
+	},
+	"Pacific\/Port_Moresby": {
+		"name": "ᏥᏳᏗᏔᎳᏗᏍᏗ ᎼᎵᏍᏈ"
+	},
+	"Pacific\/Rarotonga": {
+		"name": "ᎳᎶᏙᏂᎦ"
+	},
+	"Pacific\/Saipan": {
+		"name": "ᏌᏱᏆᏂ"
+	},
+	"Pacific\/Tahiti": {
+		"name": "ᏔᎯᏘ"
+	},
+	"Pacific\/Tarawa": {
+		"name": "ᏔᎳᏩ"
+	},
+	"Pacific\/Tongatapu": {
+		"name": "ᏙᎾᎦᏔᏊ"
+	},
+	"Pacific\/Wake": {
+		"name": "ᎤᏰᏨ"
+	},
+	"Pacific\/Wallis": {
+		"name": "ᏩᎵᏍ"
+	}
+}

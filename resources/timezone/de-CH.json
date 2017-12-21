@@ -1,0 +1,1244 @@
+{
+	"Africa\/Abidjan": {
+		"name": "Abidjan"
+	},
+	"Africa\/Accra": {
+		"name": "Accra"
+	},
+	"Africa\/Addis_Ababa": {
+		"name": "Addis Abeba"
+	},
+	"Africa\/Algiers": {
+		"name": "Algier"
+	},
+	"Africa\/Bamako": {
+		"name": "Bamako"
+	},
+	"Africa\/Bangui": {
+		"name": "Bangui"
+	},
+	"Africa\/Banjul": {
+		"name": "Banjul"
+	},
+	"Africa\/Bissau": {
+		"name": "Bissau"
+	},
+	"Africa\/Blantyre": {
+		"name": "Blantyre"
+	},
+	"Africa\/Brazzaville": {
+		"name": "Brazzaville"
+	},
+	"Africa\/Bujumbura": {
+		"name": "Bujumbura"
+	},
+	"Africa\/Cairo": {
+		"name": "Kairo"
+	},
+	"Africa\/Casablanca": {
+		"name": "Casablanca"
+	},
+	"Africa\/Ceuta": {
+		"name": "Ceuta"
+	},
+	"Africa\/Conakry": {
+		"name": "Conakry"
+	},
+	"Africa\/Dakar": {
+		"name": "Dakar"
+	},
+	"Africa\/Dar_es_Salaam": {
+		"name": "Daressalam"
+	},
+	"Africa\/Djibouti": {
+		"name": "Dschibuti"
+	},
+	"Africa\/Douala": {
+		"name": "Douala"
+	},
+	"Africa\/El_Aaiun": {
+		"name": "El Aaiún"
+	},
+	"Africa\/Freetown": {
+		"name": "Freetown"
+	},
+	"Africa\/Gaborone": {
+		"name": "Gaborone"
+	},
+	"Africa\/Harare": {
+		"name": "Harare"
+	},
+	"Africa\/Johannesburg": {
+		"name": "Johannesburg"
+	},
+	"Africa\/Juba": {
+		"name": "Juba"
+	},
+	"Africa\/Kampala": {
+		"name": "Kampala"
+	},
+	"Africa\/Khartoum": {
+		"name": "Khartum"
+	},
+	"Africa\/Kigali": {
+		"name": "Kigali"
+	},
+	"Africa\/Kinshasa": {
+		"name": "Kinshasa"
+	},
+	"Africa\/Lagos": {
+		"name": "Lagos"
+	},
+	"Africa\/Libreville": {
+		"name": "Libreville"
+	},
+	"Africa\/Lome": {
+		"name": "Lomé"
+	},
+	"Africa\/Luanda": {
+		"name": "Luanda"
+	},
+	"Africa\/Lubumbashi": {
+		"name": "Lubumbashi"
+	},
+	"Africa\/Lusaka": {
+		"name": "Lusaka"
+	},
+	"Africa\/Malabo": {
+		"name": "Malabo"
+	},
+	"Africa\/Maputo": {
+		"name": "Maputo"
+	},
+	"Africa\/Maseru": {
+		"name": "Maseru"
+	},
+	"Africa\/Mbabane": {
+		"name": "Mbabane"
+	},
+	"Africa\/Mogadishu": {
+		"name": "Mogadischu"
+	},
+	"Africa\/Monrovia": {
+		"name": "Monrovia"
+	},
+	"Africa\/Nairobi": {
+		"name": "Nairobi"
+	},
+	"Africa\/Ndjamena": {
+		"name": "N’Djamena"
+	},
+	"Africa\/Niamey": {
+		"name": "Niamey"
+	},
+	"Africa\/Nouakchott": {
+		"name": "Nouakchott"
+	},
+	"Africa\/Ouagadougou": {
+		"name": "Ouagadougou"
+	},
+	"Africa\/Porto-Novo": {
+		"name": "Porto Novo"
+	},
+	"Africa\/Sao_Tome": {
+		"name": "São Tomé"
+	},
+	"Africa\/Tripoli": {
+		"name": "Tripolis"
+	},
+	"Africa\/Tunis": {
+		"name": "Tunis"
+	},
+	"Africa\/Windhoek": {
+		"name": "Windhoek"
+	},
+	"America\/Adak": {
+		"name": "Adak"
+	},
+	"America\/Anchorage": {
+		"name": "Anchorage"
+	},
+	"America\/Anguilla": {
+		"name": "Anguilla"
+	},
+	"America\/Antigua": {
+		"name": "Antigua"
+	},
+	"America\/Araguaina": {
+		"name": "Araguaina"
+	},
+	"America\/Argentina\/Buenos_Aires": {
+		"name": "Buenos Aires"
+	},
+	"America\/Argentina\/Catamarca": {
+		"name": "Catamarca"
+	},
+	"America\/Argentina\/Cordoba": {
+		"name": "Córdoba"
+	},
+	"America\/Argentina\/Jujuy": {
+		"name": "Jujuy"
+	},
+	"America\/Argentina\/La_Rioja": {
+		"name": "La Rioja"
+	},
+	"America\/Argentina\/Mendoza": {
+		"name": "Mendoza"
+	},
+	"America\/Argentina\/Rio_Gallegos": {
+		"name": "Rio Gallegos"
+	},
+	"America\/Argentina\/Salta": {
+		"name": "Salta"
+	},
+	"America\/Argentina\/San_Juan": {
+		"name": "San Juan"
+	},
+	"America\/Argentina\/San_Luis": {
+		"name": "San Luis"
+	},
+	"America\/Argentina\/Tucuman": {
+		"name": "Tucuman"
+	},
+	"America\/Argentina\/Ushuaia": {
+		"name": "Ushuaia"
+	},
+	"America\/Aruba": {
+		"name": "Aruba"
+	},
+	"America\/Asuncion": {
+		"name": "Asunción"
+	},
+	"America\/Bahia": {
+		"name": "Bahia"
+	},
+	"America\/Bahia_Banderas": {
+		"name": "Bahia Banderas"
+	},
+	"America\/Barbados": {
+		"name": "Barbados"
+	},
+	"America\/Belem": {
+		"name": "Belem"
+	},
+	"America\/Belize": {
+		"name": "Belize"
+	},
+	"America\/Blanc-Sablon": {
+		"name": "Blanc-Sablon"
+	},
+	"America\/Boa_Vista": {
+		"name": "Boa Vista"
+	},
+	"America\/Bogota": {
+		"name": "Bogotá"
+	},
+	"America\/Boise": {
+		"name": "Boise"
+	},
+	"America\/Cambridge_Bay": {
+		"name": "Cambridge Bay"
+	},
+	"America\/Campo_Grande": {
+		"name": "Campo Grande"
+	},
+	"America\/Cancun": {
+		"name": "Cancún"
+	},
+	"America\/Caracas": {
+		"name": "Caracas"
+	},
+	"America\/Cayenne": {
+		"name": "Cayenne"
+	},
+	"America\/Cayman": {
+		"name": "Kaimaninseln"
+	},
+	"America\/Chicago": {
+		"name": "Chicago"
+	},
+	"America\/Chihuahua": {
+		"name": "Chihuahua"
+	},
+	"America\/Costa_Rica": {
+		"name": "Costa Rica"
+	},
+	"America\/Creston": {
+		"name": "Creston"
+	},
+	"America\/Cuiaba": {
+		"name": "Cuiaba"
+	},
+	"America\/Curacao": {
+		"name": "Curaçao"
+	},
+	"America\/Danmarkshavn": {
+		"name": "Danmarkshavn"
+	},
+	"America\/Dawson": {
+		"name": "Dawson"
+	},
+	"America\/Dawson_Creek": {
+		"name": "Dawson Creek"
+	},
+	"America\/Denver": {
+		"name": "Denver"
+	},
+	"America\/Detroit": {
+		"name": "Detroit"
+	},
+	"America\/Dominica": {
+		"name": "Dominica"
+	},
+	"America\/Edmonton": {
+		"name": "Edmonton"
+	},
+	"America\/Eirunepe": {
+		"name": "Eirunepe"
+	},
+	"America\/El_Salvador": {
+		"name": "El Salvador"
+	},
+	"America\/Fort_Nelson": {
+		"name": "Fort Nelson"
+	},
+	"America\/Fortaleza": {
+		"name": "Fortaleza"
+	},
+	"America\/Glace_Bay": {
+		"name": "Glace Bay"
+	},
+	"America\/Godthab": {
+		"name": "Nuuk"
+	},
+	"America\/Goose_Bay": {
+		"name": "Goose Bay"
+	},
+	"America\/Grand_Turk": {
+		"name": "Grand Turk"
+	},
+	"America\/Grenada": {
+		"name": "Grenada"
+	},
+	"America\/Guadeloupe": {
+		"name": "Guadeloupe"
+	},
+	"America\/Guatemala": {
+		"name": "Guatemala"
+	},
+	"America\/Guayaquil": {
+		"name": "Guayaquil"
+	},
+	"America\/Guyana": {
+		"name": "Guyana"
+	},
+	"America\/Halifax": {
+		"name": "Halifax"
+	},
+	"America\/Havana": {
+		"name": "Havanna"
+	},
+	"America\/Hermosillo": {
+		"name": "Hermosillo"
+	},
+	"America\/Indiana\/Indianapolis": {
+		"name": "Indianapolis"
+	},
+	"America\/Indiana\/Knox": {
+		"name": "Knox, Indiana"
+	},
+	"America\/Indiana\/Marengo": {
+		"name": "Marengo, Indiana"
+	},
+	"America\/Indiana\/Petersburg": {
+		"name": "Petersburg, Indiana"
+	},
+	"America\/Indiana\/Tell_City": {
+		"name": "Tell City, Indiana"
+	},
+	"America\/Indiana\/Vevay": {
+		"name": "Vevay, Indiana"
+	},
+	"America\/Indiana\/Vincennes": {
+		"name": "Vincennes, Indiana"
+	},
+	"America\/Indiana\/Winamac": {
+		"name": "Winamac, Indiana"
+	},
+	"America\/Inuvik": {
+		"name": "Inuvik"
+	},
+	"America\/Iqaluit": {
+		"name": "Iqaluit"
+	},
+	"America\/Jamaica": {
+		"name": "Jamaika"
+	},
+	"America\/Juneau": {
+		"name": "Juneau"
+	},
+	"America\/Kentucky\/Louisville": {
+		"name": "Louisville"
+	},
+	"America\/Kentucky\/Monticello": {
+		"name": "Monticello, Kentucky"
+	},
+	"America\/Kralendijk": {
+		"name": "Kralendijk"
+	},
+	"America\/La_Paz": {
+		"name": "La Paz"
+	},
+	"America\/Lima": {
+		"name": "Lima"
+	},
+	"America\/Los_Angeles": {
+		"name": "Los Angeles"
+	},
+	"America\/Lower_Princes": {
+		"name": "Lower Prince’s Quarter"
+	},
+	"America\/Maceio": {
+		"name": "Maceio"
+	},
+	"America\/Managua": {
+		"name": "Managua"
+	},
+	"America\/Manaus": {
+		"name": "Manaus"
+	},
+	"America\/Marigot": {
+		"name": "Marigot"
+	},
+	"America\/Martinique": {
+		"name": "Martinique"
+	},
+	"America\/Matamoros": {
+		"name": "Matamoros"
+	},
+	"America\/Mazatlan": {
+		"name": "Mazatlan"
+	},
+	"America\/Menominee": {
+		"name": "Menominee"
+	},
+	"America\/Merida": {
+		"name": "Merida"
+	},
+	"America\/Metlakatla": {
+		"name": "Metlakatla"
+	},
+	"America\/Mexico_City": {
+		"name": "Mexiko-Stadt"
+	},
+	"America\/Miquelon": {
+		"name": "Miquelon"
+	},
+	"America\/Moncton": {
+		"name": "Moncton"
+	},
+	"America\/Monterrey": {
+		"name": "Monterrey"
+	},
+	"America\/Montevideo": {
+		"name": "Montevideo"
+	},
+	"America\/Montserrat": {
+		"name": "Montserrat"
+	},
+	"America\/Nassau": {
+		"name": "Nassau"
+	},
+	"America\/New_York": {
+		"name": "New York"
+	},
+	"America\/Nipigon": {
+		"name": "Nipigon"
+	},
+	"America\/Nome": {
+		"name": "Nome"
+	},
+	"America\/Noronha": {
+		"name": "Noronha"
+	},
+	"America\/North_Dakota\/Beulah": {
+		"name": "Beulah, North Dakota"
+	},
+	"America\/North_Dakota\/Center": {
+		"name": "Center, North Dakota"
+	},
+	"America\/North_Dakota\/New_Salem": {
+		"name": "New Salem, North Dakota"
+	},
+	"America\/Ojinaga": {
+		"name": "Ojinaga"
+	},
+	"America\/Panama": {
+		"name": "Panama"
+	},
+	"America\/Pangnirtung": {
+		"name": "Pangnirtung"
+	},
+	"America\/Paramaribo": {
+		"name": "Paramaribo"
+	},
+	"America\/Phoenix": {
+		"name": "Phoenix"
+	},
+	"America\/Port-au-Prince": {
+		"name": "Port-au-Prince"
+	},
+	"America\/Port_of_Spain": {
+		"name": "Port of Spain"
+	},
+	"America\/Porto_Velho": {
+		"name": "Porto Velho"
+	},
+	"America\/Puerto_Rico": {
+		"name": "Puerto Rico"
+	},
+	"America\/Punta_Arenas": {
+		"name": "Punta Arenas"
+	},
+	"America\/Rainy_River": {
+		"name": "Rainy River"
+	},
+	"America\/Rankin_Inlet": {
+		"name": "Rankin Inlet"
+	},
+	"America\/Recife": {
+		"name": "Recife"
+	},
+	"America\/Regina": {
+		"name": "Regina"
+	},
+	"America\/Resolute": {
+		"name": "Resolute"
+	},
+	"America\/Rio_Branco": {
+		"name": "Rio Branco"
+	},
+	"America\/Santarem": {
+		"name": "Santarem"
+	},
+	"America\/Santiago": {
+		"name": "Santiago"
+	},
+	"America\/Santo_Domingo": {
+		"name": "Santo Domingo"
+	},
+	"America\/Sao_Paulo": {
+		"name": "São Paulo"
+	},
+	"America\/Scoresbysund": {
+		"name": "Ittoqqortoormiit"
+	},
+	"America\/Sitka": {
+		"name": "Sitka"
+	},
+	"America\/St_Barthelemy": {
+		"name": "Saint-Barthélemy"
+	},
+	"America\/St_Johns": {
+		"name": "St. John’s"
+	},
+	"America\/St_Kitts": {
+		"name": "St. Kitts"
+	},
+	"America\/St_Lucia": {
+		"name": "St. Lucia"
+	},
+	"America\/St_Thomas": {
+		"name": "St. Thomas"
+	},
+	"America\/St_Vincent": {
+		"name": "St. Vincent"
+	},
+	"America\/Swift_Current": {
+		"name": "Swift Current"
+	},
+	"America\/Tegucigalpa": {
+		"name": "Tegucigalpa"
+	},
+	"America\/Thule": {
+		"name": "Thule"
+	},
+	"America\/Thunder_Bay": {
+		"name": "Thunder Bay"
+	},
+	"America\/Tijuana": {
+		"name": "Tijuana"
+	},
+	"America\/Toronto": {
+		"name": "Toronto"
+	},
+	"America\/Tortola": {
+		"name": "Tortola"
+	},
+	"America\/Vancouver": {
+		"name": "Vancouver"
+	},
+	"America\/Whitehorse": {
+		"name": "Whitehorse"
+	},
+	"America\/Winnipeg": {
+		"name": "Winnipeg"
+	},
+	"America\/Yakutat": {
+		"name": "Yakutat"
+	},
+	"America\/Yellowknife": {
+		"name": "Yellowknife"
+	},
+	"Antarctica\/Casey": {
+		"name": "Casey"
+	},
+	"Antarctica\/Davis": {
+		"name": "Davis"
+	},
+	"Antarctica\/DumontDUrville": {
+		"name": "Dumont d’Urville"
+	},
+	"Antarctica\/Macquarie": {
+		"name": "Macquarie"
+	},
+	"Antarctica\/Mawson": {
+		"name": "Mawson"
+	},
+	"Antarctica\/McMurdo": {
+		"name": "McMurdo"
+	},
+	"Antarctica\/Palmer": {
+		"name": "Palmer"
+	},
+	"Antarctica\/Rothera": {
+		"name": "Rothera"
+	},
+	"Antarctica\/Syowa": {
+		"name": "Syowa"
+	},
+	"Antarctica\/Troll": {
+		"name": "Troll"
+	},
+	"Antarctica\/Vostok": {
+		"name": "Wostok"
+	},
+	"Arctic\/Longyearbyen": {
+		"name": "Longyearbyen"
+	},
+	"Asia\/Aden": {
+		"name": "Aden"
+	},
+	"Asia\/Almaty": {
+		"name": "Almaty"
+	},
+	"Asia\/Amman": {
+		"name": "Amman"
+	},
+	"Asia\/Anadyr": {
+		"name": "Anadyr"
+	},
+	"Asia\/Aqtau": {
+		"name": "Aqtau"
+	},
+	"Asia\/Aqtobe": {
+		"name": "Aktobe"
+	},
+	"Asia\/Ashgabat": {
+		"name": "Aşgabat"
+	},
+	"Asia\/Atyrau": {
+		"name": "Atyrau"
+	},
+	"Asia\/Baghdad": {
+		"name": "Bagdad"
+	},
+	"Asia\/Bahrain": {
+		"name": "Bahrain"
+	},
+	"Asia\/Baku": {
+		"name": "Baku"
+	},
+	"Asia\/Bangkok": {
+		"name": "Bangkok"
+	},
+	"Asia\/Barnaul": {
+		"name": "Barnaul"
+	},
+	"Asia\/Beirut": {
+		"name": "Beirut"
+	},
+	"Asia\/Bishkek": {
+		"name": "Bischkek"
+	},
+	"Asia\/Brunei": {
+		"name": "Brunei"
+	},
+	"Asia\/Chita": {
+		"name": "Tschita"
+	},
+	"Asia\/Choibalsan": {
+		"name": "Tschoibalsan"
+	},
+	"Asia\/Colombo": {
+		"name": "Colombo"
+	},
+	"Asia\/Damascus": {
+		"name": "Damaskus"
+	},
+	"Asia\/Dhaka": {
+		"name": "Dhaka"
+	},
+	"Asia\/Dili": {
+		"name": "Dili"
+	},
+	"Asia\/Dubai": {
+		"name": "Dubai"
+	},
+	"Asia\/Dushanbe": {
+		"name": "Duschanbe"
+	},
+	"Asia\/Famagusta": {
+		"name": "Famagusta"
+	},
+	"Asia\/Gaza": {
+		"name": "Gaza"
+	},
+	"Asia\/Hebron": {
+		"name": "Hebron"
+	},
+	"Asia\/Hong_Kong": {
+		"name": "Hongkong"
+	},
+	"Asia\/Hovd": {
+		"name": "Chowd"
+	},
+	"Asia\/Irkutsk": {
+		"name": "Irkutsk"
+	},
+	"Asia\/Jakarta": {
+		"name": "Jakarta"
+	},
+	"Asia\/Jayapura": {
+		"name": "Jayapura"
+	},
+	"Asia\/Jerusalem": {
+		"name": "Jerusalem"
+	},
+	"Asia\/Kabul": {
+		"name": "Kabul"
+	},
+	"Asia\/Kamchatka": {
+		"name": "Kamtschatka"
+	},
+	"Asia\/Karachi": {
+		"name": "Karatschi"
+	},
+	"Asia\/Khandyga": {
+		"name": "Chandyga"
+	},
+	"Asia\/Krasnoyarsk": {
+		"name": "Krasnojarsk"
+	},
+	"Asia\/Kuala_Lumpur": {
+		"name": "Kuala Lumpur"
+	},
+	"Asia\/Kuching": {
+		"name": "Kuching"
+	},
+	"Asia\/Kuwait": {
+		"name": "Kuwait"
+	},
+	"Asia\/Macau": {
+		"name": "Macao"
+	},
+	"Asia\/Magadan": {
+		"name": "Magadan"
+	},
+	"Asia\/Makassar": {
+		"name": "Makassar"
+	},
+	"Asia\/Manila": {
+		"name": "Manila"
+	},
+	"Asia\/Muscat": {
+		"name": "Maskat"
+	},
+	"Asia\/Nicosia": {
+		"name": "Nikosia"
+	},
+	"Asia\/Novokuznetsk": {
+		"name": "Nowokuznetsk"
+	},
+	"Asia\/Novosibirsk": {
+		"name": "Nowosibirsk"
+	},
+	"Asia\/Omsk": {
+		"name": "Omsk"
+	},
+	"Asia\/Oral": {
+		"name": "Oral"
+	},
+	"Asia\/Phnom_Penh": {
+		"name": "Phnom Penh"
+	},
+	"Asia\/Pontianak": {
+		"name": "Pontianak"
+	},
+	"Asia\/Pyongyang": {
+		"name": "Pjöngjang"
+	},
+	"Asia\/Qatar": {
+		"name": "Katar"
+	},
+	"Asia\/Qyzylorda": {
+		"name": "Qysylorda"
+	},
+	"Asia\/Riyadh": {
+		"name": "Riad"
+	},
+	"Asia\/Sakhalin": {
+		"name": "Sachalin"
+	},
+	"Asia\/Samarkand": {
+		"name": "Samarkand"
+	},
+	"Asia\/Seoul": {
+		"name": "Seoul"
+	},
+	"Asia\/Shanghai": {
+		"name": "Shanghai"
+	},
+	"Asia\/Singapore": {
+		"name": "Singapur"
+	},
+	"Asia\/Srednekolymsk": {
+		"name": "Srednekolymsk"
+	},
+	"Asia\/Taipei": {
+		"name": "Taipeh"
+	},
+	"Asia\/Tashkent": {
+		"name": "Taschkent"
+	},
+	"Asia\/Tbilisi": {
+		"name": "Tiflis"
+	},
+	"Asia\/Tehran": {
+		"name": "Teheran"
+	},
+	"Asia\/Thimphu": {
+		"name": "Thimphu"
+	},
+	"Asia\/Tokyo": {
+		"name": "Tokio"
+	},
+	"Asia\/Tomsk": {
+		"name": "Tomsk"
+	},
+	"Asia\/Ulaanbaatar": {
+		"name": "Ulaanbaatar"
+	},
+	"Asia\/Urumqi": {
+		"name": "Ürümqi"
+	},
+	"Asia\/Ust-Nera": {
+		"name": "Ust-Nera"
+	},
+	"Asia\/Vientiane": {
+		"name": "Vientiane"
+	},
+	"Asia\/Vladivostok": {
+		"name": "Wladiwostok"
+	},
+	"Asia\/Yakutsk": {
+		"name": "Jakutsk"
+	},
+	"Asia\/Yekaterinburg": {
+		"name": "Jekaterinburg"
+	},
+	"Asia\/Yerevan": {
+		"name": "Eriwan"
+	},
+	"Atlantic\/Azores": {
+		"name": "Azoren"
+	},
+	"Atlantic\/Bermuda": {
+		"name": "Bermudas"
+	},
+	"Atlantic\/Canary": {
+		"name": "Kanaren"
+	},
+	"Atlantic\/Cape_Verde": {
+		"name": "Cabo Verde"
+	},
+	"Atlantic\/Madeira": {
+		"name": "Madeira"
+	},
+	"Atlantic\/Reykjavik": {
+		"name": "Reyk­ja­vík"
+	},
+	"Atlantic\/South_Georgia": {
+		"name": "Südgeorgien"
+	},
+	"Atlantic\/St_Helena": {
+		"name": "St. Helena"
+	},
+	"Atlantic\/Stanley": {
+		"name": "Stanley"
+	},
+	"Australia\/Adelaide": {
+		"name": "Adelaide"
+	},
+	"Australia\/Brisbane": {
+		"name": "Brisbane"
+	},
+	"Australia\/Broken_Hill": {
+		"name": "Broken Hill"
+	},
+	"Australia\/Currie": {
+		"name": "Currie"
+	},
+	"Australia\/Darwin": {
+		"name": "Darwin"
+	},
+	"Australia\/Eucla": {
+		"name": "Eucla"
+	},
+	"Australia\/Hobart": {
+		"name": "Hobart"
+	},
+	"Australia\/Lindeman": {
+		"name": "Lindeman"
+	},
+	"Australia\/Lord_Howe": {
+		"name": "Lord Howe"
+	},
+	"Australia\/Melbourne": {
+		"name": "Melbourne"
+	},
+	"Australia\/Perth": {
+		"name": "Perth"
+	},
+	"Australia\/Sydney": {
+		"name": "Sydney"
+	},
+	"Europe\/Amsterdam": {
+		"name": "Amsterdam"
+	},
+	"Europe\/Andorra": {
+		"name": "Andorra"
+	},
+	"Europe\/Astrakhan": {
+		"name": "Astrachan"
+	},
+	"Europe\/Athens": {
+		"name": "Athen"
+	},
+	"Europe\/Belgrade": {
+		"name": "Belgrad"
+	},
+	"Europe\/Berlin": {
+		"name": "Berlin"
+	},
+	"Europe\/Bratislava": {
+		"name": "Bratislava"
+	},
+	"Europe\/Brussels": {
+		"name": "Brüssel"
+	},
+	"Europe\/Bucharest": {
+		"name": "Bukarest"
+	},
+	"Europe\/Budapest": {
+		"name": "Budapest"
+	},
+	"Europe\/Busingen": {
+		"name": "Büsingen"
+	},
+	"Europe\/Chisinau": {
+		"name": "Kischinau"
+	},
+	"Europe\/Copenhagen": {
+		"name": "Kopenhagen"
+	},
+	"Europe\/Dublin": {
+		"name": "Dublin"
+	},
+	"Europe\/Gibraltar": {
+		"name": "Gibraltar"
+	},
+	"Europe\/Guernsey": {
+		"name": "Guernsey"
+	},
+	"Europe\/Helsinki": {
+		"name": "Helsinki"
+	},
+	"Europe\/Isle_of_Man": {
+		"name": "Isle of Man"
+	},
+	"Europe\/Istanbul": {
+		"name": "Istanbul"
+	},
+	"Europe\/Jersey": {
+		"name": "Jersey"
+	},
+	"Europe\/Kaliningrad": {
+		"name": "Kaliningrad"
+	},
+	"Europe\/Kiev": {
+		"name": "Kiew"
+	},
+	"Europe\/Kirov": {
+		"name": "Kirow"
+	},
+	"Europe\/Lisbon": {
+		"name": "Lissabon"
+	},
+	"Europe\/Ljubljana": {
+		"name": "Ljubljana"
+	},
+	"Europe\/London": {
+		"name": "London"
+	},
+	"Europe\/Luxembourg": {
+		"name": "Luxemburg"
+	},
+	"Europe\/Madrid": {
+		"name": "Madrid"
+	},
+	"Europe\/Malta": {
+		"name": "Malta"
+	},
+	"Europe\/Mariehamn": {
+		"name": "Mariehamn"
+	},
+	"Europe\/Minsk": {
+		"name": "Minsk"
+	},
+	"Europe\/Monaco": {
+		"name": "Monaco"
+	},
+	"Europe\/Moscow": {
+		"name": "Moskau"
+	},
+	"Europe\/Oslo": {
+		"name": "Oslo"
+	},
+	"Europe\/Paris": {
+		"name": "Paris"
+	},
+	"Europe\/Podgorica": {
+		"name": "Podgorica"
+	},
+	"Europe\/Prague": {
+		"name": "Prag"
+	},
+	"Europe\/Riga": {
+		"name": "Riga"
+	},
+	"Europe\/Rome": {
+		"name": "Rom"
+	},
+	"Europe\/Samara": {
+		"name": "Samara"
+	},
+	"Europe\/San_Marino": {
+		"name": "San Marino"
+	},
+	"Europe\/Sarajevo": {
+		"name": "Sarajevo"
+	},
+	"Europe\/Saratov": {
+		"name": "Saratov"
+	},
+	"Europe\/Simferopol": {
+		"name": "Simferopol"
+	},
+	"Europe\/Skopje": {
+		"name": "Skopje"
+	},
+	"Europe\/Sofia": {
+		"name": "Sofia"
+	},
+	"Europe\/Stockholm": {
+		"name": "Stockholm"
+	},
+	"Europe\/Tallinn": {
+		"name": "Tallinn"
+	},
+	"Europe\/Tirane": {
+		"name": "Tirana"
+	},
+	"Europe\/Ulyanovsk": {
+		"name": "Uljanowsk"
+	},
+	"Europe\/Uzhgorod": {
+		"name": "Uschgorod"
+	},
+	"Europe\/Vaduz": {
+		"name": "Vaduz"
+	},
+	"Europe\/Vatican": {
+		"name": "Vatikan"
+	},
+	"Europe\/Vienna": {
+		"name": "Wien"
+	},
+	"Europe\/Vilnius": {
+		"name": "Vilnius"
+	},
+	"Europe\/Volgograd": {
+		"name": "Wolgograd"
+	},
+	"Europe\/Warsaw": {
+		"name": "Warschau"
+	},
+	"Europe\/Zagreb": {
+		"name": "Zagreb"
+	},
+	"Europe\/Zaporozhye": {
+		"name": "Saporischja"
+	},
+	"Europe\/Zurich": {
+		"name": "Zürich"
+	},
+	"Indian\/Antananarivo": {
+		"name": "Antananarivo"
+	},
+	"Indian\/Chagos": {
+		"name": "Chagos"
+	},
+	"Indian\/Christmas": {
+		"name": "Weihnachtsinsel"
+	},
+	"Indian\/Cocos": {
+		"name": "Cocos"
+	},
+	"Indian\/Comoro": {
+		"name": "Komoren"
+	},
+	"Indian\/Kerguelen": {
+		"name": "Kerguelen"
+	},
+	"Indian\/Mahe": {
+		"name": "Mahe"
+	},
+	"Indian\/Maldives": {
+		"name": "Malediven"
+	},
+	"Indian\/Mauritius": {
+		"name": "Mauritius"
+	},
+	"Indian\/Mayotte": {
+		"name": "Mayotte"
+	},
+	"Indian\/Reunion": {
+		"name": "Réunion"
+	},
+	"Pacific\/Apia": {
+		"name": "Apia"
+	},
+	"Pacific\/Auckland": {
+		"name": "Auckland"
+	},
+	"Pacific\/Bougainville": {
+		"name": "Bougainville"
+	},
+	"Pacific\/Chatham": {
+		"name": "Chatham"
+	},
+	"Pacific\/Easter": {
+		"name": "Osterinsel"
+	},
+	"Pacific\/Efate": {
+		"name": "Efate"
+	},
+	"Pacific\/Enderbury": {
+		"name": "Enderbury"
+	},
+	"Pacific\/Fakaofo": {
+		"name": "Fakaofo"
+	},
+	"Pacific\/Fiji": {
+		"name": "Fidschi"
+	},
+	"Pacific\/Funafuti": {
+		"name": "Funafuti"
+	},
+	"Pacific\/Galapagos": {
+		"name": "Galapagos"
+	},
+	"Pacific\/Gambier": {
+		"name": "Gambier"
+	},
+	"Pacific\/Guadalcanal": {
+		"name": "Guadalcanal"
+	},
+	"Pacific\/Guam": {
+		"name": "Guam"
+	},
+	"Pacific\/Kiritimati": {
+		"name": "Kiritimati"
+	},
+	"Pacific\/Kosrae": {
+		"name": "Kosrae"
+	},
+	"Pacific\/Kwajalein": {
+		"name": "Kwajalein"
+	},
+	"Pacific\/Majuro": {
+		"name": "Majuro"
+	},
+	"Pacific\/Marquesas": {
+		"name": "Marquesas"
+	},
+	"Pacific\/Midway": {
+		"name": "Midway"
+	},
+	"Pacific\/Nauru": {
+		"name": "Nauru"
+	},
+	"Pacific\/Niue": {
+		"name": "Niue"
+	},
+	"Pacific\/Norfolk": {
+		"name": "Norfolk"
+	},
+	"Pacific\/Noumea": {
+		"name": "Noumea"
+	},
+	"Pacific\/Pago_Pago": {
+		"name": "Pago Pago"
+	},
+	"Pacific\/Palau": {
+		"name": "Palau"
+	},
+	"Pacific\/Pitcairn": {
+		"name": "Pitcairn"
+	},
+	"Pacific\/Port_Moresby": {
+		"name": "Port Moresby"
+	},
+	"Pacific\/Rarotonga": {
+		"name": "Rarotonga"
+	},
+	"Pacific\/Saipan": {
+		"name": "Saipan"
+	},
+	"Pacific\/Tahiti": {
+		"name": "Tahiti"
+	},
+	"Pacific\/Tarawa": {
+		"name": "Tarawa"
+	},
+	"Pacific\/Tongatapu": {
+		"name": "Tongatapu"
+	},
+	"Pacific\/Wake": {
+		"name": "Wake"
+	},
+	"Pacific\/Wallis": {
+		"name": "Wallis"
+	}
+}

@@ -1,0 +1,1244 @@
+{
+	"Africa\/Abidjan": {
+		"name": "ອາບິດແຈນ"
+	},
+	"Africa\/Accra": {
+		"name": "ອັກຄຣາ"
+	},
+	"Africa\/Addis_Ababa": {
+		"name": "ແອດດິສ ອະບາບາ"
+	},
+	"Africa\/Algiers": {
+		"name": "ແອວເຈຍ"
+	},
+	"Africa\/Bamako": {
+		"name": "ບາມາໂກ"
+	},
+	"Africa\/Bangui": {
+		"name": "ບັງກຸຍ"
+	},
+	"Africa\/Banjul": {
+		"name": "ບານຈູ"
+	},
+	"Africa\/Bissau": {
+		"name": "ບິສເຊົາ"
+	},
+	"Africa\/Blantyre": {
+		"name": "ແບລນໄທຣ໌"
+	},
+	"Africa\/Brazzaville": {
+		"name": "ບຣາຊາວິວ"
+	},
+	"Africa\/Bujumbura": {
+		"name": "ບູຈູມບູຣາ"
+	},
+	"Africa\/Cairo": {
+		"name": "ໄຄໂຣ"
+	},
+	"Africa\/Casablanca": {
+		"name": "ຄາຊາບລັງກາ"
+	},
+	"Africa\/Ceuta": {
+		"name": "ຊີວຕາ"
+	},
+	"Africa\/Conakry": {
+		"name": "ໂຄນາຄຣີ"
+	},
+	"Africa\/Dakar": {
+		"name": "ດາກາ"
+	},
+	"Africa\/Dar_es_Salaam": {
+		"name": "ດາເອສສະລາມ"
+	},
+	"Africa\/Djibouti": {
+		"name": "ຈີບູຕິ"
+	},
+	"Africa\/Douala": {
+		"name": "ດູອາລາ"
+	},
+	"Africa\/El_Aaiun": {
+		"name": "ເອວ ອາຢູນ"
+	},
+	"Africa\/Freetown": {
+		"name": "ຟຣີທາວ"
+	},
+	"Africa\/Gaborone": {
+		"name": "ກາບໍໂຣນ"
+	},
+	"Africa\/Harare": {
+		"name": "ຮາຣາເຣ"
+	},
+	"Africa\/Johannesburg": {
+		"name": "ໂຈຮັນເນດສເບີກ"
+	},
+	"Africa\/Juba": {
+		"name": "ຈູບາ"
+	},
+	"Africa\/Kampala": {
+		"name": "ຄຳປາລາ"
+	},
+	"Africa\/Khartoum": {
+		"name": "ຄາທູມ"
+	},
+	"Africa\/Kigali": {
+		"name": "ຄີກາລີ"
+	},
+	"Africa\/Kinshasa": {
+		"name": "ກິນຊາຊາ"
+	},
+	"Africa\/Lagos": {
+		"name": "ລາໂກສ"
+	},
+	"Africa\/Libreville": {
+		"name": "ລິເບຼີວິວ"
+	},
+	"Africa\/Lome": {
+		"name": "ໂລເມ"
+	},
+	"Africa\/Luanda": {
+		"name": "ລວນດາ"
+	},
+	"Africa\/Lubumbashi": {
+		"name": "ລູບຳບາຊິ"
+	},
+	"Africa\/Lusaka": {
+		"name": "ລູຊາກາ"
+	},
+	"Africa\/Malabo": {
+		"name": "ມາລາໂບ"
+	},
+	"Africa\/Maputo": {
+		"name": "ມາປູໂຕ"
+	},
+	"Africa\/Maseru": {
+		"name": "ມາເຊຣູ"
+	},
+	"Africa\/Mbabane": {
+		"name": "ອຳບາບາເນ"
+	},
+	"Africa\/Mogadishu": {
+		"name": "ໂມກາດີຊູ"
+	},
+	"Africa\/Monrovia": {
+		"name": "ມອນໂຣເວຍ"
+	},
+	"Africa\/Nairobi": {
+		"name": "ໄນໂຣບີ"
+	},
+	"Africa\/Ndjamena": {
+		"name": "ເອນຈາເມນ່າ"
+	},
+	"Africa\/Niamey": {
+		"name": "ນີອາເມ"
+	},
+	"Africa\/Nouakchott": {
+		"name": "ນູແອກຊອດ"
+	},
+	"Africa\/Ouagadougou": {
+		"name": "ອູກາດູກູ"
+	},
+	"Africa\/Porto-Novo": {
+		"name": "ປໍໂຕ-ໂນໂວ"
+	},
+	"Africa\/Sao_Tome": {
+		"name": "ຊາວໂຕເມ"
+	},
+	"Africa\/Tripoli": {
+		"name": "ທຣິໂພລິ"
+	},
+	"Africa\/Tunis": {
+		"name": "ຕູນິສ"
+	},
+	"Africa\/Windhoek": {
+		"name": "ວີນຮູດ"
+	},
+	"America\/Adak": {
+		"name": "ອາແດກ"
+	},
+	"America\/Anchorage": {
+		"name": "ແອນເຄີເຣກ"
+	},
+	"America\/Anguilla": {
+		"name": "ແອນກິນລາ"
+	},
+	"America\/Antigua": {
+		"name": "ແອນທິກົວ"
+	},
+	"America\/Araguaina": {
+		"name": "ອາຣາກົວນາ"
+	},
+	"America\/Argentina\/Buenos_Aires": {
+		"name": "ບົວໂນສ ໄອເຣສ"
+	},
+	"America\/Argentina\/Catamarca": {
+		"name": "ຄາຕາມາກາ"
+	},
+	"America\/Argentina\/Cordoba": {
+		"name": "ຄໍໂດບາ"
+	},
+	"America\/Argentina\/Jujuy": {
+		"name": "ຈູຈຸຍ"
+	},
+	"America\/Argentina\/La_Rioja": {
+		"name": "ລາ ຣິໂອຈາ"
+	},
+	"America\/Argentina\/Mendoza": {
+		"name": "ເມັນໂດຊ່າ"
+	},
+	"America\/Argentina\/Rio_Gallegos": {
+		"name": "ຣິໂກ ແກວເລກອສ"
+	},
+	"America\/Argentina\/Salta": {
+		"name": "ຊານຕາ"
+	},
+	"America\/Argentina\/San_Juan": {
+		"name": "ແຊນຮວນ"
+	},
+	"America\/Argentina\/San_Luis": {
+		"name": "ແຊນລຸຍສ໌"
+	},
+	"America\/Argentina\/Tucuman": {
+		"name": "ຕູຄູແມນ"
+	},
+	"America\/Argentina\/Ushuaia": {
+		"name": "ອູຊູເອຍ"
+	},
+	"America\/Aruba": {
+		"name": "ອາຣູບາ"
+	},
+	"America\/Asuncion": {
+		"name": "ອະຊຸນຊິອອງ"
+	},
+	"America\/Bahia": {
+		"name": "ບາເຢຍ"
+	},
+	"America\/Bahia_Banderas": {
+		"name": "ບາເຮຍ ແບນເດີຣາສ"
+	},
+	"America\/Barbados": {
+		"name": "ບາເບດອສ"
+	},
+	"America\/Belem": {
+		"name": "ບີເລມ"
+	},
+	"America\/Belize": {
+		"name": "ເບລີຊ"
+	},
+	"America\/Blanc-Sablon": {
+		"name": "ບລານ-ຊາບລອນ"
+	},
+	"America\/Boa_Vista": {
+		"name": "ບົວ ວິສຕາ"
+	},
+	"America\/Bogota": {
+		"name": "ໂບໂກຕາ"
+	},
+	"America\/Boise": {
+		"name": "ບອຍຊ໌"
+	},
+	"America\/Cambridge_Bay": {
+		"name": "ແຄມບຣິດ ເບ"
+	},
+	"America\/Campo_Grande": {
+		"name": "ກັງປູຣັງຈີ"
+	},
+	"America\/Cancun": {
+		"name": "ແຄນກຸນ"
+	},
+	"America\/Caracas": {
+		"name": "ຄາຣາກັສ"
+	},
+	"America\/Cayenne": {
+		"name": "ຄາເຢນ"
+	},
+	"America\/Cayman": {
+		"name": "ເຄແມນ"
+	},
+	"America\/Chicago": {
+		"name": "ຊິຄາໂກ"
+	},
+	"America\/Chihuahua": {
+		"name": "ຊິວາວາ"
+	},
+	"America\/Costa_Rica": {
+		"name": "ຄອສຕາຣິກາ"
+	},
+	"America\/Creston": {
+		"name": "ເຄຣສຕັນ"
+	},
+	"America\/Cuiaba": {
+		"name": "ກຸຢາບາ"
+	},
+	"America\/Curacao": {
+		"name": "ກືຣາເຊົາ"
+	},
+	"America\/Danmarkshavn": {
+		"name": "ເດນມາກແຊນ"
+	},
+	"America\/Dawson": {
+		"name": "ດໍສັນ"
+	},
+	"America\/Dawson_Creek": {
+		"name": "ດໍສັນ ຄຣີກ"
+	},
+	"America\/Denver": {
+		"name": "ເດັນເວີ"
+	},
+	"America\/Detroit": {
+		"name": "ດີທຣອຍ"
+	},
+	"America\/Dominica": {
+		"name": "ໂດມິນິກາ"
+	},
+	"America\/Edmonton": {
+		"name": "ເອດມອນຕອນ"
+	},
+	"America\/Eirunepe": {
+		"name": "ເອຣຸເນປີ"
+	},
+	"America\/El_Salvador": {
+		"name": "ເອວ ຊາວາດໍ"
+	},
+	"America\/Fort_Nelson": {
+		"name": "ຟອດ ເນວສັນ"
+	},
+	"America\/Fortaleza": {
+		"name": "ຟໍຕາເລຊາ"
+	},
+	"America\/Glace_Bay": {
+		"name": "ເກລດເບ"
+	},
+	"America\/Godthab": {
+		"name": "ນູກ"
+	},
+	"America\/Goose_Bay": {
+		"name": "ກູສເບ"
+	},
+	"America\/Grand_Turk": {
+		"name": "ແກຣນ ເທີກ"
+	},
+	"America\/Grenada": {
+		"name": "ເກຣນາດາ"
+	},
+	"America\/Guadeloupe": {
+		"name": "ກາວເດລູບ"
+	},
+	"America\/Guatemala": {
+		"name": "ກົວເຕມາລາ"
+	},
+	"America\/Guayaquil": {
+		"name": "ກົວຢາກິລ"
+	},
+	"America\/Guyana": {
+		"name": "ກູຢານາ"
+	},
+	"America\/Halifax": {
+		"name": "ຮາລິແຟັກ"
+	},
+	"America\/Havana": {
+		"name": "ຮາວານາ"
+	},
+	"America\/Hermosillo": {
+		"name": "ເອໂມຊິໂຢ"
+	},
+	"America\/Indiana\/Indianapolis": {
+		"name": "ອິນດີເອນາໂພລິສ"
+	},
+	"America\/Indiana\/Knox": {
+		"name": "ນ໋ອກ, ອິນເດຍນາ"
+	},
+	"America\/Indiana\/Marengo": {
+		"name": "ມາເຣນໂກ, ອິນເດຍນາ"
+	},
+	"America\/Indiana\/Petersburg": {
+		"name": "ປີເຕີສເປີກ, ອິນເດຍນາ"
+	},
+	"America\/Indiana\/Tell_City": {
+		"name": "ເທວ ຊິຕີ, ອິນເດຍນາ"
+	},
+	"America\/Indiana\/Vevay": {
+		"name": "ວີເວ, ອິນເດຍນາ"
+	},
+	"America\/Indiana\/Vincennes": {
+		"name": "ວິນເຊນເນສ, ອິນເດຍນາ"
+	},
+	"America\/Indiana\/Winamac": {
+		"name": "ວິນາແມັກ, ອິນເດຍນາ"
+	},
+	"America\/Inuvik": {
+		"name": "ອີນູວິກ"
+	},
+	"America\/Iqaluit": {
+		"name": "ອີກົວລິດ"
+	},
+	"America\/Jamaica": {
+		"name": "ຈາໄມກາ"
+	},
+	"America\/Juneau": {
+		"name": "ຈູໂນ"
+	},
+	"America\/Kentucky\/Louisville": {
+		"name": "ຫລຸຍວິວ"
+	},
+	"America\/Kentucky\/Monticello": {
+		"name": "ມອນຕີເຊວໂລ, ເຄນທັກກີ"
+	},
+	"America\/Kralendijk": {
+		"name": "ຄຣາເລນດິກ"
+	},
+	"America\/La_Paz": {
+		"name": "ລາປາສ"
+	},
+	"America\/Lima": {
+		"name": "ລີມາ"
+	},
+	"America\/Los_Angeles": {
+		"name": "ລອສ ແອນເຈລີສ"
+	},
+	"America\/Lower_Princes": {
+		"name": "ໂລເວີ ພຣິນຊ໌ ຄວດເຕີ"
+	},
+	"America\/Maceio": {
+		"name": "ມາເຊໂອ"
+	},
+	"America\/Managua": {
+		"name": "ມານາກົວ"
+	},
+	"America\/Manaus": {
+		"name": "ມາເນົາສ໌"
+	},
+	"America\/Marigot": {
+		"name": "ມາຣີໂກດ"
+	},
+	"America\/Martinique": {
+		"name": "ມາທີນິກ"
+	},
+	"America\/Matamoros": {
+		"name": "ມາຕາໂມຣອສ"
+	},
+	"America\/Mazatlan": {
+		"name": "ມາຊາດລານ"
+	},
+	"America\/Menominee": {
+		"name": "ເມໂນມິນີ"
+	},
+	"America\/Merida": {
+		"name": "ເມີຣິດາ"
+	},
+	"America\/Metlakatla": {
+		"name": "ເມັດລາກັດລາ"
+	},
+	"America\/Mexico_City": {
+		"name": "ເມັກຊິໂກ ຊິຕີ"
+	},
+	"America\/Miquelon": {
+		"name": "ມິກົວລອນ"
+	},
+	"America\/Moncton": {
+		"name": "ມອນຕັນ"
+	},
+	"America\/Monterrey": {
+		"name": "ມອນເຕີເຣຍ"
+	},
+	"America\/Montevideo": {
+		"name": "ມອນເຕວິເດໂອ"
+	},
+	"America\/Montserrat": {
+		"name": "ມອນເຊີຣັດ"
+	},
+	"America\/Nassau": {
+		"name": "ແນສຊໍ"
+	},
+	"America\/New_York": {
+		"name": "ນິວຢອກ"
+	},
+	"America\/Nipigon": {
+		"name": "ນີປີກອນ"
+	},
+	"America\/Nome": {
+		"name": "ນອມ"
+	},
+	"America\/Noronha": {
+		"name": "ນໍຣອນຮາ"
+	},
+	"America\/North_Dakota\/Beulah": {
+		"name": "ເບີລາ, ນອດ ດາໂກຕາ"
+	},
+	"America\/North_Dakota\/Center": {
+		"name": "ເຊັນເຈີ, ນອດ ດາໂກຕາ"
+	},
+	"America\/North_Dakota\/New_Salem": {
+		"name": "ນິວ ຊາເລມ, ນອດ ດາໂກຕາ"
+	},
+	"America\/Ojinaga": {
+		"name": "ໂອຈິນາກາ"
+	},
+	"America\/Panama": {
+		"name": "ພານາມາ"
+	},
+	"America\/Pangnirtung": {
+		"name": "ແພງເນີດທັງ"
+	},
+	"America\/Paramaribo": {
+		"name": "ພາຣາມາຣິໂບ"
+	},
+	"America\/Phoenix": {
+		"name": "ຟິນິກ"
+	},
+	"America\/Port-au-Prince": {
+		"name": "ປໍໂຕແປຣງ"
+	},
+	"America\/Port_of_Spain": {
+		"name": "ພອດອອບສະເປນ"
+	},
+	"America\/Porto_Velho": {
+		"name": "ປໍຕູ ເວວຢູ"
+	},
+	"America\/Puerto_Rico": {
+		"name": "ເປີໂທຣິໂກ"
+	},
+	"America\/Punta_Arenas": {
+		"name": "ພຸນທາ ອະຣີນາສ໌"
+	},
+	"America\/Rainy_River": {
+		"name": "ເຣນນີ ຣິເວີ"
+	},
+	"America\/Rankin_Inlet": {
+		"name": "ແຣນກິນ ອິນເລັດ"
+	},
+	"America\/Recife": {
+		"name": "ເຣຊິເຟ"
+	},
+	"America\/Regina": {
+		"name": "ເຣຈິນາ"
+	},
+	"America\/Resolute": {
+		"name": "ເຣໂຊລຸດ"
+	},
+	"America\/Rio_Branco": {
+		"name": "ຣິໂອ ບຣັນໂກ"
+	},
+	"America\/Santarem": {
+		"name": "ຊັນຕາເຣມ"
+	},
+	"America\/Santiago": {
+		"name": "ຊັນຕີອາໂກ"
+	},
+	"America\/Santo_Domingo": {
+		"name": "ຊານໂຕໂດມິນໂກ"
+	},
+	"America\/Sao_Paulo": {
+		"name": "ເຊົາ ເປົາໂລ"
+	},
+	"America\/Scoresbysund": {
+		"name": "ອິໂຕຄໍທົວມິດ"
+	},
+	"America\/Sitka": {
+		"name": "ຊິດກາ"
+	},
+	"America\/St_Barthelemy": {
+		"name": "ເຊນບາເທເລມີ"
+	},
+	"America\/St_Johns": {
+		"name": "ເຊນ ຈອນ"
+	},
+	"America\/St_Kitts": {
+		"name": "ເຊນ ຄິດສ໌"
+	},
+	"America\/St_Lucia": {
+		"name": "ເຊນ ລູເຊຍ"
+	},
+	"America\/St_Thomas": {
+		"name": "ເຊນ ໂທມັສ"
+	},
+	"America\/St_Vincent": {
+		"name": "ເຊນ ວິນເຊນ"
+	},
+	"America\/Swift_Current": {
+		"name": "ສະວິວ ເຄີເຣນ"
+	},
+	"America\/Tegucigalpa": {
+		"name": "ເຕກູຊີການປາ"
+	},
+	"America\/Thule": {
+		"name": "ທູເລ"
+	},
+	"America\/Thunder_Bay": {
+		"name": "ທັນເດີເບ"
+	},
+	"America\/Tijuana": {
+		"name": "ທີຈົວນາ"
+	},
+	"America\/Toronto": {
+		"name": "ໂທຣອນໂຕ"
+	},
+	"America\/Tortola": {
+		"name": "ທໍໂຕລາ"
+	},
+	"America\/Vancouver": {
+		"name": "ແວນຄູເວີ"
+	},
+	"America\/Whitehorse": {
+		"name": "ໄວທ໌ຮອສ"
+	},
+	"America\/Winnipeg": {
+		"name": "ວິນນີເພກ"
+	},
+	"America\/Yakutat": {
+		"name": "ຢາຄູຕັດ"
+	},
+	"America\/Yellowknife": {
+		"name": "ເຢໂລໄນຟ໌"
+	},
+	"Antarctica\/Casey": {
+		"name": "ເຄຊີ"
+	},
+	"Antarctica\/Davis": {
+		"name": "ດາວີສ"
+	},
+	"Antarctica\/DumontDUrville": {
+		"name": "ດູມອນດີຍູວີວສ໌"
+	},
+	"Antarctica\/Macquarie": {
+		"name": "ແມັກຄົວຣີ"
+	},
+	"Antarctica\/Mawson": {
+		"name": "ເມົາຊັນ"
+	},
+	"Antarctica\/McMurdo": {
+		"name": "ແມັກມົວໂດ"
+	},
+	"Antarctica\/Palmer": {
+		"name": "ພາມເມີ"
+	},
+	"Antarctica\/Rothera": {
+		"name": "ໂຣເທຣາ"
+	},
+	"Antarctica\/Syowa": {
+		"name": "ເຊຍວາ"
+	},
+	"Antarctica\/Troll": {
+		"name": "ໂທຣລ໌"
+	},
+	"Antarctica\/Vostok": {
+		"name": "ວໍສະຕອກ"
+	},
+	"Arctic\/Longyearbyen": {
+		"name": "ລອງເຢຍບຽນ"
+	},
+	"Asia\/Aden": {
+		"name": "ເອເດັນ"
+	},
+	"Asia\/Almaty": {
+		"name": "ອໍມາຕີ"
+	},
+	"Asia\/Amman": {
+		"name": "ອຳມານ"
+	},
+	"Asia\/Anadyr": {
+		"name": "ອານາດີ"
+	},
+	"Asia\/Aqtau": {
+		"name": "ອັດຕາອູ"
+	},
+	"Asia\/Aqtobe": {
+		"name": "ອັດໂທບີ"
+	},
+	"Asia\/Ashgabat": {
+		"name": "ອາດຊ໌ກາບັດ"
+	},
+	"Asia\/Atyrau": {
+		"name": "ອັດທີເຣົາ"
+	},
+	"Asia\/Baghdad": {
+		"name": "ແບກແດດ"
+	},
+	"Asia\/Bahrain": {
+		"name": "ບາເຣນ"
+	},
+	"Asia\/Baku": {
+		"name": "ບາກູ"
+	},
+	"Asia\/Bangkok": {
+		"name": "ບາງກອກ"
+	},
+	"Asia\/Barnaul": {
+		"name": "ບານົວ"
+	},
+	"Asia\/Beirut": {
+		"name": "ເບຣຸດ"
+	},
+	"Asia\/Bishkek": {
+		"name": "ບິດຊ໌ເຄກ"
+	},
+	"Asia\/Brunei": {
+		"name": "ບຣູໄນ"
+	},
+	"Asia\/Chita": {
+		"name": "ຊີຕ່າ"
+	},
+	"Asia\/Choibalsan": {
+		"name": "ຊອຍບອລຊານ"
+	},
+	"Asia\/Colombo": {
+		"name": "ໂຄລຳໂບ"
+	},
+	"Asia\/Damascus": {
+		"name": "ດາມາສຄັສ"
+	},
+	"Asia\/Dhaka": {
+		"name": "ດາຫ໌ກາ"
+	},
+	"Asia\/Dili": {
+		"name": "ດີລີ"
+	},
+	"Asia\/Dubai": {
+		"name": "ດູໄບ"
+	},
+	"Asia\/Dushanbe": {
+		"name": "ດູຊານເບ"
+	},
+	"Asia\/Famagusta": {
+		"name": "ຟາມາກັສທາ"
+	},
+	"Asia\/Gaza": {
+		"name": "ກາຊາ"
+	},
+	"Asia\/Hebron": {
+		"name": "ເຮບຣອນ"
+	},
+	"Asia\/Hong_Kong": {
+		"name": "ຮ່ອງກົງ"
+	},
+	"Asia\/Hovd": {
+		"name": "ຮອບ"
+	},
+	"Asia\/Irkutsk": {
+		"name": "ອີຄຸສຄ໌"
+	},
+	"Asia\/Jakarta": {
+		"name": "ຈາກາຕາ"
+	},
+	"Asia\/Jayapura": {
+		"name": "ຈາຢາປູຣະ"
+	},
+	"Asia\/Jerusalem": {
+		"name": "ເຢຣູຊາເລມ"
+	},
+	"Asia\/Kabul": {
+		"name": "ຄາບູ"
+	},
+	"Asia\/Kamchatka": {
+		"name": "ຄາມຊາດກາ"
+	},
+	"Asia\/Karachi": {
+		"name": "ກາຣາຈີ"
+	},
+	"Asia\/Khandyga": {
+		"name": "ແຄນດີກາ"
+	},
+	"Asia\/Krasnoyarsk": {
+		"name": "ຄຣັສໂນຢາສຄ໌"
+	},
+	"Asia\/Kuala_Lumpur": {
+		"name": "ກົວລາລຳເປີ"
+	},
+	"Asia\/Kuching": {
+		"name": "ກູຊີງ"
+	},
+	"Asia\/Kuwait": {
+		"name": "ຄູເວດ"
+	},
+	"Asia\/Macau": {
+		"name": "ມາເກົາ"
+	},
+	"Asia\/Magadan": {
+		"name": "ມາກາແດນ"
+	},
+	"Asia\/Makassar": {
+		"name": "ມາກາສຊາ"
+	},
+	"Asia\/Manila": {
+		"name": "ມານີລາ"
+	},
+	"Asia\/Muscat": {
+		"name": "ມາສຄັດ"
+	},
+	"Asia\/Nicosia": {
+		"name": "ນິໂຄເຊຍ"
+	},
+	"Asia\/Novokuznetsk": {
+		"name": "ໂນໂວຄຸສເນັດ"
+	},
+	"Asia\/Novosibirsk": {
+		"name": "ໂນໂວຊີບີສຄ໌"
+	},
+	"Asia\/Omsk": {
+		"name": "ອອມສຄ໌"
+	},
+	"Asia\/Oral": {
+		"name": "ອໍຣໍ"
+	},
+	"Asia\/Phnom_Penh": {
+		"name": "ພະນົມເປັນ"
+	},
+	"Asia\/Pontianak": {
+		"name": "ພອນເທຍນັກ"
+	},
+	"Asia\/Pyongyang": {
+		"name": "ປຽງຢາງ"
+	},
+	"Asia\/Qatar": {
+		"name": "ກາຕາຣ໌"
+	},
+	"Asia\/Qyzylorda": {
+		"name": "ໄຄຊີລໍດາ"
+	},
+	"Asia\/Riyadh": {
+		"name": "ຣີຢາດ"
+	},
+	"Asia\/Sakhalin": {
+		"name": "ຊາຄາລິນ"
+	},
+	"Asia\/Samarkand": {
+		"name": "ຊາມາແຄນ"
+	},
+	"Asia\/Seoul": {
+		"name": "ໂຊລ໌"
+	},
+	"Asia\/Shanghai": {
+		"name": "ຊ່ຽງໄຮ້"
+	},
+	"Asia\/Singapore": {
+		"name": "ສິງກະໂປ"
+	},
+	"Asia\/Srednekolymsk": {
+		"name": "ສຣິລເນັກໂກລີດ"
+	},
+	"Asia\/Taipei": {
+		"name": "ໄທເປ"
+	},
+	"Asia\/Tashkent": {
+		"name": "ທາດສ໌ເຄນ"
+	},
+	"Asia\/Tbilisi": {
+		"name": "ທິບີລີຊີ"
+	},
+	"Asia\/Tehran": {
+		"name": "ເຕຣານ"
+	},
+	"Asia\/Thimphu": {
+		"name": "ທິມພູ"
+	},
+	"Asia\/Tokyo": {
+		"name": "ໂຕກຽວ"
+	},
+	"Asia\/Tomsk": {
+		"name": "ທອມສກ໌"
+	},
+	"Asia\/Ulaanbaatar": {
+		"name": "ອູລານບາຕາຣ໌"
+	},
+	"Asia\/Urumqi": {
+		"name": "ອູຣຸມຊີ"
+	},
+	"Asia\/Ust-Nera": {
+		"name": "ອຸສ ເນຣາ"
+	},
+	"Asia\/Vientiane": {
+		"name": "ວຽງຈັນ"
+	},
+	"Asia\/Vladivostok": {
+		"name": "ວີລາດິໂວສຕອກ"
+	},
+	"Asia\/Yakutsk": {
+		"name": "ຢາຄຸທຊ໌"
+	},
+	"Asia\/Yekaterinburg": {
+		"name": "ເຢຄາເຕີຣິນເບີກ"
+	},
+	"Asia\/Yerevan": {
+		"name": "ເຍເຣວານ"
+	},
+	"Atlantic\/Azores": {
+		"name": "ອາຊໍເຣສ"
+	},
+	"Atlantic\/Bermuda": {
+		"name": "ເບີມິວດາ"
+	},
+	"Atlantic\/Canary": {
+		"name": "ຄານາຣີ"
+	},
+	"Atlantic\/Cape_Verde": {
+		"name": "ເຄບເວີດ"
+	},
+	"Atlantic\/Madeira": {
+		"name": "ມາເດຣາ"
+	},
+	"Atlantic\/Reykjavik": {
+		"name": "ເຣກຢາວິກ"
+	},
+	"Atlantic\/South_Georgia": {
+		"name": "ເຊົາຈໍເຈຍ"
+	},
+	"Atlantic\/St_Helena": {
+		"name": "ເຊນ ເຮເລນາ"
+	},
+	"Atlantic\/Stanley": {
+		"name": "ສະແຕນເລ"
+	},
+	"Australia\/Adelaide": {
+		"name": "ເອດີແລດ"
+	},
+	"Australia\/Brisbane": {
+		"name": "ບຣິສເບນ"
+	},
+	"Australia\/Broken_Hill": {
+		"name": "ໂບຣກເຄນ ຮິວ"
+	},
+	"Australia\/Currie": {
+		"name": "ກູຣີ"
+	},
+	"Australia\/Darwin": {
+		"name": "ດາວິນ"
+	},
+	"Australia\/Eucla": {
+		"name": "ຢູຄລາ"
+	},
+	"Australia\/Hobart": {
+		"name": "ໂຮບາດ"
+	},
+	"Australia\/Lindeman": {
+		"name": "ລິນດີແມນ"
+	},
+	"Australia\/Lord_Howe": {
+		"name": "ໂລດໂຮວີ"
+	},
+	"Australia\/Melbourne": {
+		"name": "ເມວເບິນ"
+	},
+	"Australia\/Perth": {
+		"name": "ເພີດ"
+	},
+	"Australia\/Sydney": {
+		"name": "ຊິດນີ"
+	},
+	"Europe\/Amsterdam": {
+		"name": "ອາມສເຕີດຳ"
+	},
+	"Europe\/Andorra": {
+		"name": "ອິນດໍຣາ"
+	},
+	"Europe\/Astrakhan": {
+		"name": "ອາສຕຣາຄານ"
+	},
+	"Europe\/Athens": {
+		"name": "ເອເທນສ໌"
+	},
+	"Europe\/Belgrade": {
+		"name": "ເບວເກຣດ"
+	},
+	"Europe\/Berlin": {
+		"name": "ເບີລິນ"
+	},
+	"Europe\/Bratislava": {
+		"name": "ບຣາທິສລາວາ"
+	},
+	"Europe\/Brussels": {
+		"name": "ບຣັສເຊວ"
+	},
+	"Europe\/Bucharest": {
+		"name": "ບູຄາເຣສຕ໌"
+	},
+	"Europe\/Budapest": {
+		"name": "ບູດາເປສຕ໌"
+	},
+	"Europe\/Busingen": {
+		"name": "ບັດຊິນເກນ"
+	},
+	"Europe\/Chisinau": {
+		"name": "ຄີຊີເນົາ"
+	},
+	"Europe\/Copenhagen": {
+		"name": "ໂຄເປນເຮເກນ"
+	},
+	"Europe\/Dublin": {
+		"name": "ດັບບລິນ"
+	},
+	"Europe\/Gibraltar": {
+		"name": "ກິບຣອລທາ"
+	},
+	"Europe\/Guernsey": {
+		"name": "ເກີນຊີ"
+	},
+	"Europe\/Helsinki": {
+		"name": "ເຮວຊິນກິ"
+	},
+	"Europe\/Isle_of_Man": {
+		"name": "ເກາະແມນ"
+	},
+	"Europe\/Istanbul": {
+		"name": "ອິສຕັນບູລ໌"
+	},
+	"Europe\/Jersey": {
+		"name": "ເຈີຊີ"
+	},
+	"Europe\/Kaliningrad": {
+		"name": "ຄາລິນິນກຣາດ"
+	},
+	"Europe\/Kiev": {
+		"name": "ຂຽບ"
+	},
+	"Europe\/Kirov": {
+		"name": "ກິໂຣບ"
+	},
+	"Europe\/Lisbon": {
+		"name": "ລິສບອນ"
+	},
+	"Europe\/Ljubljana": {
+		"name": "ລູບລີຍານາ"
+	},
+	"Europe\/London": {
+		"name": "ລອນດອນ"
+	},
+	"Europe\/Luxembourg": {
+		"name": "ລັກເຊັມເບີກ"
+	},
+	"Europe\/Madrid": {
+		"name": "ມາດຣິດ"
+	},
+	"Europe\/Malta": {
+		"name": "ມອລຕາ"
+	},
+	"Europe\/Mariehamn": {
+		"name": "ມາຣີແຮມນ໌"
+	},
+	"Europe\/Minsk": {
+		"name": "ມິນສກ໌"
+	},
+	"Europe\/Monaco": {
+		"name": "ໂມນາໂຄ"
+	},
+	"Europe\/Moscow": {
+		"name": "ມອສໂຄ"
+	},
+	"Europe\/Oslo": {
+		"name": "ອອສໂລ"
+	},
+	"Europe\/Paris": {
+		"name": "ປາຣີສ"
+	},
+	"Europe\/Podgorica": {
+		"name": "ພອດກໍຣີກາ"
+	},
+	"Europe\/Prague": {
+		"name": "ປຣາກ"
+	},
+	"Europe\/Riga": {
+		"name": "ຣິກາ"
+	},
+	"Europe\/Rome": {
+		"name": "ໂຣມ"
+	},
+	"Europe\/Samara": {
+		"name": "ຊາມາຣາ"
+	},
+	"Europe\/San_Marino": {
+		"name": "ຊານມາຣີໂນ"
+	},
+	"Europe\/Sarajevo": {
+		"name": "ຊາຣາເຢໂວ"
+	},
+	"Europe\/Saratov": {
+		"name": "ຊາຣາທອບ"
+	},
+	"Europe\/Simferopol": {
+		"name": "ຊີມເຟໂລໂປ"
+	},
+	"Europe\/Skopje": {
+		"name": "ສະໂກເປຍ"
+	},
+	"Europe\/Sofia": {
+		"name": "ໂຊເຟຍ"
+	},
+	"Europe\/Stockholm": {
+		"name": "ສະຕອກໂຮມ"
+	},
+	"Europe\/Tallinn": {
+		"name": "ທາລລິນນ໌"
+	},
+	"Europe\/Tirane": {
+		"name": "ທິຣານ"
+	},
+	"Europe\/Ulyanovsk": {
+		"name": "ອູລີອານອບສຄ໌"
+	},
+	"Europe\/Uzhgorod": {
+		"name": "ອັສຊ໌ກໍໂຣດ"
+	},
+	"Europe\/Vaduz": {
+		"name": "ວາດາຊ"
+	},
+	"Europe\/Vatican": {
+		"name": "ວາຕິກັນ"
+	},
+	"Europe\/Vienna": {
+		"name": "ວຽນນາ"
+	},
+	"Europe\/Vilnius": {
+		"name": "ວິລນິອຸສ"
+	},
+	"Europe\/Volgograd": {
+		"name": "ວອລໂກກຣາດ"
+	},
+	"Europe\/Warsaw": {
+		"name": "ວໍຊໍ"
+	},
+	"Europe\/Zagreb": {
+		"name": "ຊາເກຣບ"
+	},
+	"Europe\/Zaporozhye": {
+		"name": "ຊາໂປໂຣຊີ"
+	},
+	"Europe\/Zurich": {
+		"name": "ຊູຣິກ"
+	},
+	"Indian\/Antananarivo": {
+		"name": "ອັນຕານານາຣິໂວ"
+	},
+	"Indian\/Chagos": {
+		"name": "ຊາໂກສ"
+	},
+	"Indian\/Christmas": {
+		"name": "ຄຣິດສະມາດ"
+	},
+	"Indian\/Cocos": {
+		"name": "ໂຄໂຄສ"
+	},
+	"Indian\/Comoro": {
+		"name": "ໂຄໂມໂຣ"
+	},
+	"Indian\/Kerguelen": {
+		"name": "ແກເກີເລນ"
+	},
+	"Indian\/Mahe": {
+		"name": "ມາເຮ"
+	},
+	"Indian\/Maldives": {
+		"name": "ມັລດີບ"
+	},
+	"Indian\/Mauritius": {
+		"name": "ເມົາຣິທຽສ"
+	},
+	"Indian\/Mayotte": {
+		"name": "ມາຢັອດເຕ"
+	},
+	"Indian\/Reunion": {
+		"name": "ເຣອູນິຢົງ"
+	},
+	"Pacific\/Apia": {
+		"name": "ເອປີອາ"
+	},
+	"Pacific\/Auckland": {
+		"name": "ອັກແລນ"
+	},
+	"Pacific\/Bougainville": {
+		"name": "ເວລາຕາມເຂດບູນກຽນວິວ"
+	},
+	"Pacific\/Chatham": {
+		"name": "ແຊແທມ"
+	},
+	"Pacific\/Easter": {
+		"name": "ເອສເຕີ"
+	},
+	"Pacific\/Efate": {
+		"name": "ເອຟາເຕ"
+	},
+	"Pacific\/Enderbury": {
+		"name": "ເອັນເດີເບີລີ"
+	},
+	"Pacific\/Fakaofo": {
+		"name": "ຟາກາວໂຟ"
+	},
+	"Pacific\/Fiji": {
+		"name": "ຟູຈິ"
+	},
+	"Pacific\/Funafuti": {
+		"name": "ຟູນະຟູຕິ"
+	},
+	"Pacific\/Galapagos": {
+		"name": "ກາລາປາກອສ"
+	},
+	"Pacific\/Gambier": {
+		"name": "ແກມເບຍ"
+	},
+	"Pacific\/Guadalcanal": {
+		"name": "ກົວດັລຄະແນລ"
+	},
+	"Pacific\/Guam": {
+		"name": "ກວມ"
+	},
+	"Pacific\/Kiritimati": {
+		"name": "ຄີຣິທີມາຕີ"
+	},
+	"Pacific\/Kosrae": {
+		"name": "ຄໍສແຣ"
+	},
+	"Pacific\/Kwajalein": {
+		"name": "ຄວາຈາເລນ"
+	},
+	"Pacific\/Majuro": {
+		"name": "ມາຈູໂຣ"
+	},
+	"Pacific\/Marquesas": {
+		"name": "ມາຄິວຊາສ"
+	},
+	"Pacific\/Midway": {
+		"name": "ມິດເວ"
+	},
+	"Pacific\/Nauru": {
+		"name": "ນາອູຣູ"
+	},
+	"Pacific\/Niue": {
+		"name": "ນີອູເອ"
+	},
+	"Pacific\/Norfolk": {
+		"name": "ນໍຟອລ໌ກ"
+	},
+	"Pacific\/Noumea": {
+		"name": "ນູເມອາ"
+	},
+	"Pacific\/Pago_Pago": {
+		"name": "ປາໂກປາໂກ"
+	},
+	"Pacific\/Palau": {
+		"name": "ປາເລົາ"
+	},
+	"Pacific\/Pitcairn": {
+		"name": "ພິດແຄນ"
+	},
+	"Pacific\/Port_Moresby": {
+		"name": "ພອດ ມໍເຣສບີ"
+	},
+	"Pacific\/Rarotonga": {
+		"name": "ຣາໂຣຕອງກາ"
+	},
+	"Pacific\/Saipan": {
+		"name": "ໄຊປານ"
+	},
+	"Pacific\/Tahiti": {
+		"name": "ທາຮີຕິ"
+	},
+	"Pacific\/Tarawa": {
+		"name": "ຕາຣາວາ"
+	},
+	"Pacific\/Tongatapu": {
+		"name": "ຕອງກາຕາປູ"
+	},
+	"Pacific\/Wake": {
+		"name": "ເວກ"
+	},
+	"Pacific\/Wallis": {
+		"name": "ວາລິດ"
+	}
+}
